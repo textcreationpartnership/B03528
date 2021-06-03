@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The comparative anatomy of the stomachs and guts begun. Being several lectures read before the Royal Society. In the year 1676. / By Nehemiah Grew M.D. ...</title>
+            <author>Grew, Nehemiah, 1641-1712.</author>
+         </titleStmt>
+         <extent>Approx. 107KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03528</idno><idno type="EEBO-CITATION">51784559</idno>
+  <idno type="VID">174968</idno>
+  <idno type="EEBO-PROQUEST">2240912983</idno>
+  
+            <idno type="STC">Wing G1946B</idno>
+            <idno type="STC">ESTC R188162</idno>
+            <idno type="OCLC">51784559</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174968)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2707:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The comparative anatomy of the stomachs and guts begun. Being several lectures read before the Royal Society. In the year 1676. / By Nehemiah Grew M.D. ...</title>
+                  <author>Grew, Nehemiah, 1641-1712.</author>
+               </titleStmt>
+               <extent>[2], 43, [58] : ill., tables.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Rawlins, for the author,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrations, p. [1]-[58] at end. Some fold out.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anatomy, Comparative --  Early works to 1800.</term>
+               <term type="topical_term">Digestive system --  Anatomy --  Early works to 1800.</term>
+               <term type="topical_term">Stomach --  Anatomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174968:1"/>
+            <pb facs="tcp:174968:1"/>
+            <p>THE Comparative Anatomy OF <hi>Stomachs and Guts <hi>BEGƲN.</hi>
+               </hi>
+            </p>
+            <p>BEING SEVERAL LECTURES Read before the ROYAL SOCIETY. In the Year, 1676.</p>
+            <p>By <hi>Nehemjah Grew</hi> M. D. Fellow of the <hi>Royal Society,</hi> and of the <hi>Colledge</hi> of <hi>Physitians.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Rawlins,</hi> for the Author, 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174968:2"/>
+            <head>An Advertisement to the Reader.</head>
+            <p>WHereas a Book Entitul'd, <hi>Exercitatio Anatomico-Medica de Glandulis Intestinorum, earum{que} Ʋsu &amp; Affectibus. Cui subjungitur Anatome Ventriculi Gellinacei. Studio Joh. Conradi Peyeri Scafhusa-Helvetij,</hi> 1677. In which are found some of those Observations contained in the following Lectures. It was therefore thought fit, here to take Notice, That the said Book was not Published, till the Year after these Lectures were Read.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:174968:2"/>
+            <head>CHAP. I. <hi>Of the Stomachs and Guts of Six Carnivorous Quadrupeds;</hi> sc. <hi>The Weesle, Fitchet, Polecat, Cat, Dog and Fox.</hi>
+            </head>
+            <p>I Am not ignorant of what many Learned and Inquisi<g ref="char:EOLhyphen"/>tive Men, both at home and abroad, especially in this last <hi>Century,</hi> have performed in the Anatomy of Ani<g ref="char:EOLhyphen"/>mals. After all whom, if it be demanded, what is left for me to do? I Answer in the words of <hi>Seneca,</hi>
+               <note place="margin">(a) Epist. 64.</note>
+               <hi>Multum adhuc restat operis, multúm{que} restabit; nec ulli Nato, post mille Saecula, praecludetur occasio, aliquid adhuc adjiciendi.</hi>
+            </p>
+            <p>I shall omit most of what is already noted by <hi>Anatomists;</hi> and princially speak of those things, which have hitherto been unobserv'd.</p>
+            <div type="section">
+               <head>A Weesle.</head>
+               <p>The <hi>Gulet</hi> of a <hi>Weesle</hi> (which from the Ears to the set<g ref="char:EOLhyphen"/>ting on of the Tail was 10 inches) about five inches long, ¼ in Diametre, equally wide, and thin. Enters the Stomach at the left End.</p>
+               <p>The <hi>Stomach</hi> about three inches long; proportionably, more than a <hi>Dogs.</hi> An inch in Diametre at the upper Ori<g ref="char:EOLhyphen"/>fice; at the nether, ¼; having a <hi>flexure</hi> towards its Con<g ref="char:EOLhyphen"/>junction with the Guts: shaped like to the body of a pair of <hi>Bag-Pipes.</hi> Thin, and plain, or without Folds. Which seems to be the property of the Stomachs of most Rapaci<g ref="char:EOLhyphen"/>ous <hi>Quadrupeds.</hi>
+               </p>
+               <p>The Guts <hi>thin,</hi> and plain, or with little store of <hi>Glands,</hi> especially of such as in most <hi>Carnivorous</hi> Animals are con<g ref="char:EOLhyphen"/>spicuous. About a yard in length, and ½ an inch in Dia<g ref="char:EOLhyphen"/>metre; without any considerable contraction, difference of Size, Texture or Substance from the <hi>Stomach</hi> to the <hi>Anus.</hi> No <hi>Colon.</hi> No <hi>Caecum.</hi> So that it seems to be all but <hi>One single Gut.</hi> Contrary to what is seen in any other <hi>Quadru<g ref="char:EOLhyphen"/>ped,</hi> I have opened.</p>
+               <p>At the <hi>Anus,</hi> a Couple of <hi>Bags</hi> grow to the Gut; one
+<pb n="2" facs="tcp:174968:3"/>on each side. Each of them, fill'd, about the bigness of a large <hi>Garden-Peas:</hi> containing a yellow, and thickish Li<g ref="char:EOLhyphen"/>quor, extraordinary <hi>foetid,</hi> and having the peculiar scent of the Animal in the most intense degree. Over the <hi>Bags</hi> or <hi>Bladders,</hi> is spread the <hi>Sphincter-Muscle;</hi> which compressing <hi>Them</hi> and the <hi>Anus</hi> both together, forceth them to a con<g ref="char:EOLhyphen"/>temporary evacution.</p>
+               <p>I have not yet dissected the <hi>Civet-Cat,</hi> but suppose, that these Bags are analogous to those that contain the <hi>Civet</hi> in that Animal.</p>
+               <p>These Bags, so far as I have observ'd, are proper to all <hi>Carnivorous Quadrupeds,</hi> and those only: as will further appear by the following Examples.</p>
+            </div>
+            <div type="section">
+               <head>A Fitchet.</head>
+               <p>A FITCHET, being of kin to the <hi>Weesle;</hi> hath also a <hi>Stomach</hi> and <hi>Guts</hi> much alike.</p>
+               <p>The <hi>Guts</hi> about a yard and two inches. At most, but two. The first, about two feet and ½ long; and ⅜<seg rend="sup">ths</seg> of an inch over, where widest. Hath five or six Necks or Con<g ref="char:EOLhyphen"/>tractions. And a little before most of them, stands a small <hi>Cluster</hi> of <hi>Glands,</hi> about as big as a <hi>Silver Half-peny.</hi> The second, is about ½ a quarter of a yard long, and ½ an inch over where widest. Very thin, plain, and without any <hi>Glands</hi> visible to the bare Eye.</p>
+               <p>On each side the <hi>Anus,</hi> there is also a Bag of <hi>foetid</hi> Liquor, with the stink of the Animal.</p>
+               <p>The <hi>Guts</hi> of these Two Animals, and I suppose like<g ref="char:EOLhyphen"/>wise of the <hi>Ferret,</hi> are the most simple, and plain, of all I have observ'd in <hi>Quadrupeds.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>A Pole-Cat.</head>
+               <p>The <hi>Gulet</hi> and <hi>Stomach</hi> of a POLE-CAT, are in shape like those of a <hi>Weesle.</hi> But the <hi>Guts</hi> are different.</p>
+               <p>They may be reckon'd, four. The first, about ¾ of a <hi>yard</hi> long; ½ an inch over; very thin, and plain.</p>
+               <p>The second, ¼ of a yard in length; ¼ of an inch over, and in some places more. This <hi>Gut</hi> is Glandulous and very thick, in comparison with the other, from end to end. The
+<pb n="3" facs="tcp:174968:3"/>Glands extream small, no bigger than little <hi>Pins heads.</hi> Yet every Gland hath its <hi>Orifice,</hi> out of which a <hi>Mucus</hi> or <hi>Pituita</hi> may be visibly squeez'd.</p>
+               <p>The Third, is ½ a yard long; and about ½ an inch over, as the first. About the middle hereof, is a <hi>Cluster</hi> (of petite <hi>Glands</hi>) about two inches long, and ¼ of an inch broad. At the further end also, joyning to the fourth <hi>Gut,</hi> is ano<g ref="char:EOLhyphen"/>ther like <hi>Cluster,</hi> but as broad again. Each Gland in both these <hi>Clusters,</hi> is about the bigness of a <hi>Mustard-Seed.</hi>
+               </p>
+               <p>Each of these <hi>Clusters,</hi> may be called a little <hi>PANCREAS INTESTINALE.</hi> Their difference is, That This hath not one common <hi>Ductus.</hi>
+               </p>
+               <p>Of these <hi>Clusters,</hi> it is observable, That both here, and in all the other Animals hereafter mention'd, they stand directly opposite to that side of the <hi>Gut,</hi> into which the Vessels are inserted.</p>
+               <p>The Fourth, or <hi>Rectum,</hi> is separated from the former by a Contraction. Almost five inches long; and near the <hi>Anus,</hi> ¾ of an inch in Diametre. So that all the <hi>Guts</hi> together, are two yards, within ½ a quarter.</p>
+               <p>This Animal hath neither <hi>Colon,</hi> nor <hi>Caecum.</hi>
+               </p>
+               <p>At the <hi>Anus,</hi> a pair of <hi>Bladders</hi> grow to the <hi>Gut,</hi> as in a <hi>Weesle;</hi> containing also a Liquor with the peculiar <hi>faetor</hi> of the Animal, most intense.</p>
+            </div>
+            <div type="section">
+               <head>A Cat.</head>
+               <p>The <hi>Gulet</hi> of a well grown CAT, ¾ of an inch, where widest. The Texture two-fold. The <hi>Muscular Fibers</hi> of the upper half next the Throat, plainly <hi>Platted.</hi> A sort of Work, which will best be seen in the <hi>Gulet</hi> of a <hi>Sheep.</hi> Those of the other half, rather <hi>Annular,</hi> though not exactly so.</p>
+               <p>The <hi>Stomach</hi> in shape like that of a <hi>Dog,</hi> and most other <hi>Carnivorous Quadrupeds;</hi> only somewhat shorter and rounder; being not above five inches long, yet 3½ over.</p>
+               <p>But in the <hi>Guts</hi> divers Specialties are observable. Alto<g ref="char:EOLhyphen"/>gether, about two yards and ¾ long. With respect to their substance, but two in number: To their shape, the first may be subdivided into four.</p>
+               <pb n="4" facs="tcp:174968:4"/>
+               <p>This first may be called <hi>Musculare:</hi> being in proportion, thicker or more carneous than the <hi>Guts</hi> of any <hi>Quadruped</hi> I have open'd.</p>
+               <p>It hath about 28 or 30 <hi>Contractions;</hi> some an inch, others two or three inches distant one from another. I have not seen a quarter so many in any other Animal. It may be subdivided into four.</p>
+               <p>The First, <hi>i. e.</hi> from the <hi>Stomach</hi> to the place where the <hi>Gut</hi> is considerably amplify'd, about a ¼ of a yard; and some<g ref="char:EOLhyphen"/>what more than ¼ of an inch, over.</p>
+               <p>The Second, <hi>i. e.</hi> to the place where more conspicuously contracted, about ½ a yard; and in its widest place, above ½ an inch, over.</p>
+               <p>The Third, <hi>i. e.</hi> to the next greater dilatation, a yard and ⅛<seg rend="sup">th</seg>; and ⅜<seg rend="sup">ths</seg> of an inch, over; near the same width with that of the first.</p>
+               <p>The Fourth, about ½ a yard and ½<seg rend="sup">th</seg>; and ½ inch, over. So that two slender, and two ample ones are reciprocally joyn'd.</p>
+               <p>This <hi>Intest. Musculare,</hi> is furnished with several <hi>Clusters</hi> of <hi>Glands,</hi> six or seven in number: each <hi>Cluster</hi> about ¾ of an inch long; and the last above three inches. This espe<g ref="char:EOLhyphen"/>cially, as in the <hi>Pole-Cat,</hi> may be called <hi>PANCREAS IN<g ref="char:EOLhyphen"/>TESTINALE.</hi>
+               </p>
+               <p>The Next <hi>Gut</hi> (in the place of the <hi>Rectum</hi>) may be called <hi>Membranaceum,</hi> in distinction from the former; be<g ref="char:EOLhyphen"/>ing far more perspicuous and thin. About ½ a yard long; and where widest, an inch and ¼, over. So that its hollow is more than four times as great as of any part of the <hi>Intest. Mus<g ref="char:EOLhyphen"/>culare;</hi> and eight or ten times as great as of the small parts. And doth therefore contain far more than all that <hi>Gut.</hi>
+               </p>
+               <p>To the undermost part of this <hi>Gut,</hi> about an inch and ½ before the <hi>Anus,</hi> is fasten'd the end of a slender <hi>Muscle;</hi> the other extremity, to one of the <hi>Vertebrae</hi> of the Loins.</p>
+               <p>This <hi>Gut</hi> is furnished with several large <hi>Glands,</hi> not stand<g ref="char:EOLhyphen"/>ing in <hi>Clusters,</hi> but singly, as in a <hi>Fox</hi> or a <hi>Dog</hi> presently to be describ'd; but not so big.</p>
+               <p>The upper End of this <hi>Gut</hi> where it joyns to the <hi>Muscu<g ref="char:EOLhyphen"/>lar,</hi> for the length of ¾ of an inch, is partly Conick and partly Helick; being, as it were, the beginning of a <hi>Caecum.</hi>
+               </p>
+               <pb n="5" facs="tcp:174968:4"/>
+               <p>On each side the <hi>Anus,</hi> a Bag of <hi>foetid</hi> Liquor, as in the former Animals.</p>
+               <p>To the <hi>Guts</hi> of a <hi>Cat,</hi> I suppose those of a <hi>Leopard, Tiger,</hi> and <hi>Lion,</hi> may have some Analogy.</p>
+            </div>
+            <div type="section">
+               <head>A Bitch.</head>
+               <p>The <hi>Gulet</hi> of a BITCH (from the top of her Head to the setting on of her Tail about ¾ of a yard) near an inch in Diametre. Somewhat thick, redish, and muscular.</p>
+               <p>The <hi>Stomach</hi> shaped as a <hi>Cats,</hi> saving that it is a little longer. In length, nine inches; in breadth, six; in depth, as much. Somewhat <hi>Muscular,</hi> as the <hi>Gulet.</hi> Not very visibly Glandulous, except near the lower <hi>Orifice.</hi> Where, for the space of three or four inches, are a great number of small Glands, yet fairly observable round about.</p>
+               <p>The <hi>Guts</hi> are Four. The Frist, or <hi>Crassum,</hi> two yards and ½, and near an inch over, where widest.</p>
+               <p>The Second, or <hi>Tenue,</hi> about a yard and ¾ long, and somewhat more than ½ an inch wide.</p>
+               <p>The Third, or <hi>Caecum,</hi> where widest, near an inch; and about ½ a foot long; but winding with three flexures, three several ways. Not joyned to the <hi>Tenue,</hi> but the <hi>Rectum;</hi> and so postur'd, as to make an acute Angle not with the <hi>Rectum,</hi> but the <hi>Tenue;</hi> in other Animals. And the passage between This and the <hi>Rectum</hi> somewhat straight.</p>
+               <p>The Fourth, or <hi>Rectum,</hi> half a yard; next the <hi>Caecum,</hi> an inch over; near the <hi>Anus</hi> an inch and ¾. All the <hi>Guts</hi> toge<g ref="char:EOLhyphen"/>ther, near five yards.</p>
+               <p>This only, of the Animals yet mention'd, hath a <hi>Caecum.</hi> Yet without a <hi>Colon.</hi>
+               </p>
+               <p>The <hi>Guts</hi> of this Animal, as well as the <hi>Gulet,</hi> are all of them thick, redish, and Muscular. The like, I suppose, are those of all <hi>Ossivorous Quadrupeds.</hi>
+               </p>
+               <p>They are furnished with store of <hi>Glands.</hi> In the <hi>Caecum,</hi> at several distances from ⅛<seg rend="sup">th</seg> to ⅜<seg rend="sup">ths</seg> of an inch. Very conspicu<g ref="char:EOLhyphen"/>ous to the naked Eye, even after they are blown up and dry'd. In the two foremost, they stand in <hi>Clusters;</hi> and the Clusters in all, about 20. Some of them round, as big as a <hi>Silver Peny</hi> or <hi>Two-peny;</hi> and some Oval, the compass of an <hi>Almond:</hi> and some, especially towards the <hi>Caecum,</hi> two
+<pb n="6" facs="tcp:174968:5"/>or three inches long, and ½ an inch broad. Every Gland, as big as a <hi>Turnep-Seed.</hi> The <hi>Caecum</hi> besprinkled with Flat Glands, the breadth of a <hi>Marshmallow-Seed</hi> or little Spangle. And so the <hi>Rectum,</hi> especially towards the <hi>Anus;</hi> but here big.</p>
+               <p>In the centre of these Flat Glands, the <hi>Orifice,</hi> or if you will the <hi>Anus</hi> of every Gland is very conspicuous: by which the Gland speweth out a certain <hi>Mucus</hi> or <hi>Pituita;</hi> as by compressing the Gut may be easily seen.</p>
+               <p>So that although the Glands of the Stomach and Guts, especially in Men and <hi>Quadrupeds,</hi> seem to lie behind, or under the inner Membrane: yet the Mouths of them all, do open into the Hollow of the Stomach and Guts. The <hi>Pituita</hi> which is always found very copious in both, not being half of it, the spittle, or bred of the <hi>Aliment,</hi> as is ge<g ref="char:EOLhyphen"/>nerally conceiv'd; but spewed out of these Glands.</p>
+               <p>At the <hi>Anus,</hi> are two Bags of stinking Liquor, as in the aforesaid Animals.</p>
+            </div>
+            <div type="section">
+               <head>A Fox.</head>
+               <p>The Gulet, Stomach and Guts of a FOX, (½ a year old, and ½ yard from Head to Tail) are much like to those of a <hi>Dog.</hi> But with some differences. The Gulet, in proportion, somewhat larger. The Stomach deeper.</p>
+               <p>The first Gut, or the <hi>Crassum,</hi> far shorter, not above ½ a foot. The second, or the <hi>Tenue,</hi> somewhat wider. The <hi>Caecum,</hi> much larger; near ¾ of a foot long. It lies not strait out, but is wound up almost spirally. Where it joyn<g ref="char:EOLhyphen"/>eth to the other Guts, ½ an inch over; at the other End, near an inch.</p>
+               <p>The Guts furnished with several Clusters of Glands, as in a <hi>Dog,</hi> about 14 in number. That next the <hi>Caecum</hi> four inches long, and above ½ an inch broad. Before every large Cluster is a little Contraction in the Gut. In the <hi>Caecum</hi> and <hi>Rectum</hi> much larger than in the <hi>Bitch.</hi>
+               </p>
+               <p>I suppose it is proper to all other Ossivorous Animals, for the <hi>Rectum</hi> to be furnish'd with such Glands.</p>
+               <p>Just upon the <hi>Anus</hi> lie two Bags of stinking Liquor, as in the Animals above-said.</p>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="7" facs="tcp:174968:5"/>
+            <head>CHAP. II. <hi>Of the Stomach and Guts of the</hi> Mole; <hi>which seems to feed on Insects. As also of the</hi> Urchan, Squirel, <hi>and</hi> Rat; <hi>which are chiefly Frugivorous.</hi>
+            </head>
+            <div type="section">
+               <head>A Mole.</head>
+               <p>THe Gulet of a MOLE, is not fasten'd to the End of the Stomach, as in the foregoing Animals, but to the middle.</p>
+               <p>The Stomach shaped somewhat like that of a <hi>Polecat,</hi> and is as big; being three inches long, an inch and ¼ broad, and as deep: which in comparison with the small bulk of the Animal, is exceeding great: this Animal weigh<g ref="char:EOLhyphen"/>ing not much above three Ounces; but an ordinary <hi>Pole<g ref="char:EOLhyphen"/>cat</hi> betwixt 20 and 30.</p>
+               <p>The Guts, a yard and ¾ long; longer than in the Carni<g ref="char:EOLhyphen"/>vorous kind. About ¼ of an inch over every where. Near the <hi>Anus</hi> a little wider. So that they seem, so far, to be but two. Yet taking in their Texture, they may be three.</p>
+               <p>The <hi>Texture</hi> of the First (about ¾ of a yard long) is plain and simple, to the Eye, as in other Guts. Of the Second, extreme Curious; the <hi>Fibers</hi> of the <hi>Muscular Membrane,</hi> making <hi>Ʋndulations</hi> or <hi>Indentures,</hi> continued for the length of ¾ of a yard, round about the Gut: very much resem<g ref="char:EOLhyphen"/>bling the <hi>Needle-work,</hi> commonly called <hi>Irish-stich.</hi> But the <hi>Graver,</hi> though in other respects he hath done tole<g ref="char:EOLhyphen"/>rably well, yet cometh short of the elegancy of this Work.</p>
+               <p>Both these Guts are furnish'd with five or six small Clusters of Glands; each Cluster as big as a little Spangle.</p>
+               <p>The <hi>Rectum,</hi> of a plain Texture, as the First. And with<g ref="char:EOLhyphen"/>out any conspicuous Glands. Half a ¼ of a yard long, and where widest, ½ inch over.</p>
+               <p>Here are none of the Bags described in the <hi>Weesle, &amp;c.</hi> Nor any <hi>Caecum</hi> nor <hi>Colon.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="8" facs="tcp:174968:6"/>
+               <head>An Ʋrchan.</head>
+               <p>The Gulet of an URCHAN enters the Stomach towards the middle, as in a <hi>Mole.</hi> Somewhat small, not ¾ of an inch over.</p>
+               <p>The Stomach not so large as in the <hi>Mole,</hi> yet bigger than in Carnivorous Animals; as than that of a <hi>Weesle,</hi> although the Body of an <hi>Ʋrchan</hi> of the same age be no bigger, as is plain, when the Skins of both are taken off. 'Tis also of a rounder shape.</p>
+               <p>The Guts, for substance, seem to be but One. But from the difference of shape, may be accounted Four. The First, or <hi>Crassum,</hi> a yard and ⅛<seg rend="sup">th</seg> long; and near ½ an inch over, where widest. It hath several, about 12 observable Con<g ref="char:EOLhyphen"/>tractions; some of them an inch or two long, some more, and some less: which, as to their length, is peculiar to this Animal.</p>
+               <p>The Second, or <hi>Gracile,</hi> is about ¾ of a yard long; ¼ of an inch over, and of an equal size throughout.</p>
+               <p>The Third, or <hi>Amplissimum,</hi> ⅛<seg rend="sup">th</seg> of a yard long; and above ¾ of an inch over, where widest.</p>
+               <p>The <hi>Rectum,</hi> about as long; and above ½ an inch over. So the length of all the Guts, is Two yards and an inch or two: much longer, than in the Carnivorous kind.</p>
+               <p>The Third and Last, are sprinkled with an innumerable company of extream small Glands, scarce discernible with<g ref="char:EOLhyphen"/>out a Glass; through which, they shew as big as little <hi>Pins heads.</hi>
+               </p>
+               <p>This Animal hath none of those Bags near the <hi>Anus,</hi> above described in the <hi>Weesle, &amp;c.</hi> Hath no <hi>Caecum.</hi> No <hi>Colon.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>A Squirell.</head>
+               <p>That I open'd, was a <hi>Virginian,</hi> smaller than the <hi>European.</hi> The Gulet enters the Stomach towards the middle, as in a <hi>Mole</hi> and <hi>Ʋrchan</hi> very small, like the top of an <hi>Oaten-straw:</hi> so that the upper <hi>Orifice</hi> of the Stomach, hardly lets any thing, so much as wind, to pass into it.</p>
+               <p>The Stomach two inches long; the left end, an inch over; the right, ½ an inch.</p>
+               <pb n="9" facs="tcp:174968:6"/>
+               <p>The Guts may be reckon'd Four. The First, which reacheth to the <hi>Caecum,</hi> above ½ a yard long; and near ¾ of an inch over.</p>
+               <p>The <hi>Caecum</hi> very large, near three inches long, and about ½ an inch over. Lies spirally wound up on it self.</p>
+               <p>The Third, about three inches long, not above ½<seg rend="sup">th</seg> of an inch over.</p>
+               <p>The Last, about as long. Hath two Contractions and Dilatations; where widest, ¼ of an inch over. All the Guts together without the <hi>Caecum,</hi> not ¾ of a yard: the shortest of all yet describ'd.</p>
+               <p>Here are none of those Bags upon the <hi>Anus,</hi> above men<g ref="char:EOLhyphen"/>tion'd.</p>
+            </div>
+            <div type="section">
+               <head>A Rat.</head>
+               <p>The Gulet of a RAT, is extream small, like that of a <hi>Squi<g ref="char:EOLhyphen"/>rel;</hi> and inserted into the Stomach in the same manner.</p>
+               <p>The Stomach, with respect to that of a <hi>Mole,</hi> very small; <hi>sc.</hi> three times less: although the Body of a <hi>Rat,</hi> is above twice as big as the Body of a <hi>Mole.</hi>
+               </p>
+               <p>The substance hereof is also more plainly distinguish'd into two sorts. One half, towards the left end, more pel<g ref="char:EOLhyphen"/>lucid, thin and membranous. The other half, <hi>sc.</hi> from the Insertion of the Gulet to the <hi>Pylorus,</hi> more opacous, thick and Muscular.</p>
+               <p>The Guts may be accounted Five. The First, or <hi>Gracile,</hi> ½ an Eln long, and ¼ of an inch over.</p>
+               <p>The Second, or <hi>Amplum,</hi> ½ a yard long, and ⅓<seg rend="sup">d</seg> of an inch over.</p>
+               <p>In these two together, are eleven or twelve Clusters of Glands; every Cluster about the breadth of a Spangle.</p>
+               <p>The Third, or <hi>Caecum,</hi> contained by a Ligament in an Orbicular posture round about the <hi>Amplum.</hi> Above ½ an inch over, and three inches long. So that take it breadth and length, and it is as big as the Stomach it self.</p>
+               <p>The Fourth, I crave leave to call the <hi>Abomafideum:</hi> for that it is in figure or structure very like to that <hi>Ventricle</hi> in a <hi>Sheep</hi> or <hi>Cow,</hi> called the <hi>Abomasus.</hi> About two inches long; and near its Conjunction with the <hi>Caecum,</hi> ⅔<seg rend="sup">d</seg> of an inch over, narrowing all the way to the other end. That
+<pb n="10" facs="tcp:174968:7"/>which is curions herein, is, That 'tis furnished with a con<g ref="char:EOLhyphen"/>siderable number of oblique Plates, about 46; 23 or thereabout, on each side oppositely; exactly like to those in the <hi>Abomasus</hi> of a <hi>Sheep.</hi>
+               </p>
+               <p>The Last, or <hi>Stercoraceum,</hi> is six inches long; ¼ of an inch over, where widest. And hath one or two Contracti<g ref="char:EOLhyphen"/>ons, as in a <hi>Squirel.</hi>
+               </p>
+               <p>The Gulet, Stomach and Guts of a MOUSE, are little dif<g ref="char:EOLhyphen"/>ferent. Only the Glands of the Guts fewer; and the <hi>Caecum,</hi> less.</p>
+               <p>On the contrary, in a SHREW-MOUSE, the <hi>Caecum</hi> is rather greater, being ⅓<seg rend="sup">d</seg> of an inch over, and two inches long. Yet the Body of the Animal five or six times less than that of a <hi>Rat.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. <hi>Of the Stomach and Guts of such Animals as are both Frugivorous and Graminivorous; as the</hi> Rabbit, Horse, <hi>and</hi> Pig.</head>
+            <div type="section">
+               <head>A Rabbit.</head>
+               <p>THe Gulet of a RABBIT is inserted into the middle of the Stomach, as in a <hi>Rat.</hi>
+               </p>
+               <p>The Stomach shaped almost like a <hi>Dogs,</hi> but bigger, with respect to the Animal. Its inner Membrane is gather'd up into several little Plates, like those in a Man. At the End next the <hi>Pylorus,</hi> much thicker, and more Glandulous, Ner<g ref="char:EOLhyphen"/>vous, and Muscular than in any other part.</p>
+               <p>The Guts, without the <hi>Caecum,</hi> are four yards long. In number, five. The First, or <hi>Jejunum,</hi> about four feet long, and ½ an inch over.</p>
+               <p>The Second, or <hi>Ileum,</hi> as long; and above ½ an inch over. Whereas in some, as the <hi>Polecat, Dog, Ʋrchan,</hi> the Second Gut is smaller than the First.</p>
+               <p>The <hi>Jejunum</hi> is besprinkled with a great number of very small Glands: which when the Guts are blown up and dry, look like a multitude of little Specks. Whence the Gut is more opacous than the <hi>Ileum.</hi>
+               </p>
+               <pb n="11" facs="tcp:174968:7"/>
+               <p>Besides these smaller Glands, the <hi>Jejunum</hi> and <hi>Ileum</hi> to<g ref="char:EOLhyphen"/>gether, are furnished with four or five Clusters, about as broad as a <hi>Two-penys;</hi> and every Gland as big as <hi>Wall flower-Seeds.</hi>
+               </p>
+               <p>Where the <hi>Ileum</hi> enters the <hi>Colon,</hi> it hath a very thick white and Glandulous Body, or <hi>Pancreas Intestinale:</hi> and the mouth of each Gland very apparent.</p>
+               <p>The <hi>Caecum,</hi> of a prodigious size; above ½ a yard long, and and an inch and ½ over where widest.</p>
+               <p>At the End of the <hi>Caecum</hi> hangs a certain Label, also con<g ref="char:EOLhyphen"/>tinuously hollow with the <hi>Caecum,</hi> and may be accounted part of it. Betwixt three and four inches long; and at the upper end, ¾ of an inch over; in shape like a Man's Finger. Lined quite through with a thick Glandulous Body, like that in the end of the <hi>Ileum.</hi>
+               </p>
+               <p>All the rest of the <hi>Caecum</hi> very thin, and transparent: so as being blown up, it looks like those Skins of <hi>Iceing-Glass,</hi> formerly us'd for Transparent <hi>Flower-Works.</hi>
+               </p>
+               <p>This Gut seemeth at first, to have many <hi>Valvulae Conni<g ref="char:EOLhyphen"/>ventes.</hi> But by being blown up, is fairly represented one single <hi>Valve</hi> or <hi>Plate,</hi> stretched out perpendicularly from the circuit of the Gut, and most curiously winding, in a spiral Line, from one End to the other.</p>
+               <p>This Gut runs into the <hi>Colon,</hi> which is above a foot long, where widest or next the <hi>Caecum,</hi> an inch over; at the other end ½ an inch. It hath a double <hi>Vinculum,</hi> one on each side; by which 'tis gather'd up into a great number of little Cells, contiguous one to another throughout.</p>
+               <p>In opening this Animal, being just dead, the <hi>Peristaltick</hi> motion of the Guts, was very apparent, especially in this Gut. By means whereof, the several Cells aforesaid, were made reciprocally to move in and out; so as while one moved and was convex inward, another next adjacent, mo<g ref="char:EOLhyphen"/>ved and was convex outward; and so on by a kind of un<g ref="char:EOLhyphen"/>dulation, for several inches together.</p>
+               <p>This Gut is very thick and Glandulous all over, the Glands standing every where close and contiguous: so that the in<g ref="char:EOLhyphen"/>side of the Gut, looks like the <hi>Seal-Fishes</hi> Skin. The Glands are not flat, as in the Guts above describ'd, but standing up round and high, like an infinite number of <hi>Papillae:</hi> the Mouths of each visibly open; from whence a <hi>Mucus</hi> may easily be express'd.</p>
+               <pb n="12" facs="tcp:174968:8"/>
+               <p>So that all Intestinal Glands are either Flat, or Spherical; both with a Mouth in the centre. Answering to a <hi>Button-Mould;</hi> the Flat Gland, to a flat Mould; and the Sphaerical Gland to the like Mould. The former may be called <hi>Rotu<g ref="char:EOLhyphen"/>lares:</hi> the latter <hi>Papillares.</hi>
+               </p>
+               <p>The Last Gut is about four feet long; as wide as the <hi>Ileum,</hi> and near the <hi>Anus</hi> wider by ¼ of an inch.</p>
+               <p>This Animal hath none of those Bags observed at the <hi>Anus</hi> of the Carnivorous kind.</p>
+            </div>
+            <div type="section">
+               <head>A Horse.</head>
+               <p>The Gulet of a HORSE, is large, thick, red, and very Muscular. The properties of the Gulet in all Voraceous <hi>Quadrupeds.</hi> Inserted into the Stomach, not at one End, but the middle, as in a <hi>Rabbit.</hi>
+               </p>
+               <p>The Stomach single. Not much above a foot long, about ¼ of a yard deep, and seven inches over. Which in respect to the Animal, and especially to his Guts, is exceed<g ref="char:EOLhyphen"/>ing small, I had not time to observe the inside, but proba<g ref="char:EOLhyphen"/>bly, 'tis gather'd up into Plates or Folds as That of a <hi>Rabbit.</hi>
+               </p>
+               <p>The Guts are six. The First, or small Gut, about 28 yards. Near the Stomach, two inches over; towards the other end, two inches and ½. Which though it be wider by far, than the same Gut in any other <hi>Quadruped</hi> that I have open'd: yet in respect to the Amplitude of the other Guts in this Animal, it may properly be called the <hi>Small Gut.</hi> It hath six or eight Contractions or short narrow Necks; and amongst them, a long one, about a foot before its en<g ref="char:EOLhyphen"/>trance into the <hi>Caecum.</hi>
+               </p>
+               <p>It hath very few, and but small Clusters of those larger Glands, observable in the fore-mention'd Animals. But of a smaller kind, the inner Coat is every where full as it can hold, each Gland not so big as a <hi>Cheese-Mite.</hi>
+               </p>
+               <p>The Second, or <hi>Caecum,</hi> is square; having not two, but four Ligaments which contain it in that figure. By means whereof the sides are also gather'd into many Cells, small and great, as the <hi>Colon</hi> it self in this and other Animals.</p>
+               <p>The Bulk is vast: Near the Cone, or close end, about three inches over. But at the Base, or where it joyns to the
+<pb n="13" facs="tcp:174968:8"/>
+                  <hi>Colon,</hi> a ¼ of a yard over. And in length, a full yard. So that it is more than twice as big as the Stomach.</p>
+               <p>The Learned Dr. <hi>Glisson,</hi> in speaking of the Stomachs of <hi>Quadrupeds,</hi> saith, That a <hi>Rabbit</hi> and a <hi>Horse</hi> have a double <hi>Caecum.</hi> His words are these; <hi>In Equis, Cuniculis, &amp; Por<g ref="char:EOLhyphen"/>cellis Indicis, Caecum duplex deprehenditur.</hi> But herein he is mistaken. As to a <hi>Rabbit,</hi> the contrary hath been seen in the Guts presented entire before this Honourable Presence. And who ever will take the pains to examine all the Guts of a <hi>Horse,</hi> will find, That neither hath he, any more than One <hi>Caecum,</hi> which I have above describ'd.</p>
+               <p>The Third Gut, is the <hi>Colon.</hi> The unusual shape, and pro<g ref="char:EOLhyphen"/>digious Amplitude whereof, might give occasion to the Doctor to mistake it for another <hi>Caecum.</hi> So that although a <hi>Horse</hi> hath but one single <hi>Caecum;</hi> yet may he not impro<g ref="char:EOLhyphen"/>perly be said to have a Treble <hi>Colon; sc.</hi> Two Ample ones, next the <hi>Caecum;</hi> and a smaller one next the <hi>Rectum.</hi> Un<g ref="char:EOLhyphen"/>less any please rather to call the two Great ones, the two <hi>BELLIES</hi> of one and the same <hi>Colon.</hi>
+               </p>
+               <p>The First <hi>Belly</hi> next the <hi>Caecum,</hi> is no less where widest, than ¼ of a yard over; and in length, above a yard and ½.</p>
+               <p>The Second Belly, next the <hi>Rectum,</hi> as wide as the former; and above a yard long. So that each of these Bellies are bigger than the <hi>Caecum.</hi> That next the <hi>Caecum</hi> half as big again: And about four times as big as the Stomach.</p>
+               <p>These two Bellies are joyn'd together by a <hi>Neck,</hi> about four inches over, and ¾ of a yard long. Gather'd likewise into Cells, as all the other parts of the <hi>Colon.</hi> But with four Ligaments, as the <hi>Caecum.</hi> By which also they lie square. And upon a passing view, might be another occasion of the forementioned mistake. So that if any one shall call either of these <hi>Bellies,</hi> a <hi>Caecum;</hi> then a <hi>Horse</hi> will not have two only, but three <hi>Caecums.</hi> But these <hi>Bellies</hi> have neither of them, the defining property of a <hi>Caecum;</hi> which is, To be pervious at one end only.</p>
+               <p>The small <hi>Colon,</hi> or the smaller part of it, runs betwixt the Second Belly and the <hi>Rectum:</hi> likewise full of Cells, con<g ref="char:EOLhyphen"/>tain'd together by two opposite Ligaments as in other Animals. 'Tis about three inches over; and six yards long.</p>
+               <p>The <hi>Rectum,</hi> very thick and Muscular, as in most other
+<pb n="14" facs="tcp:174968:9"/>large <hi>Quadrupeds;</hi> about three inches and ½ over, and not above ½ a yard long. The length of all the Guts (without the <hi>Caecum</hi>) is about 37 yards. So that the Guts of a Horse, although they come much short of those of the Animals next mention'd: yet in wideness, much exceed them: So as to contain about ten times more than his Stomach.</p>
+            </div>
+            <div type="section">
+               <head>A Pig.</head>
+               <p>That which I procur'd was but 16 days old. The Gulet was torn off; so that I could only observe the Insertion of it, which is about the middle of the Stomach, as in a Horse. But that of a <hi>Hog,</hi> I have often seen, and it is very thick, muscular and red.</p>
+               <p>The Stomach, was five inches long, and three over. Shaped somewhat oddly; in a manner with a double <hi>Ventricle.</hi> The one, and the principal, may be called <hi>Venter magnus,</hi> shaped like that of Carnivorous <hi>Quadrupeds.</hi> Very thick and Muscular; especially in the Neck and at the <hi>Pylorus.</hi>
+               </p>
+               <p>Against the <hi>Pylorus</hi> stands a round Caruncle, as big as a small <hi>Filbert Kernel,</hi> like a stopple to the <hi>Pylorus.</hi> A part I think peculiar to this Animal.</p>
+               <p>This <hi>Ventricle</hi> within, hath several Folds, about ⅙<seg rend="sup">th</seg> of an inch broad, and as deep; and wind to and and fro, as in a <hi>Rabbit</hi> or a Man. Scituate only about the right End or half of the Belly: the other End being, though also Mus<g ref="char:EOLhyphen"/>cular, yet very plain.</p>
+               <p>At the left End of this greater <hi>Ventricle,</hi> another far less, yet distinct one, is appendent. Much after the same man<g ref="char:EOLhyphen"/>ner as the <hi>Reticulum</hi> in a <hi>Sheep</hi> is to the <hi>Panch.</hi> Or as the <hi>Intestinum Caecum</hi> to the other Guts: for which reason it may be called <hi>Caecus Ventriculus.</hi> Separated from the greater by a Muscular Ligament, like a half <hi>Valve.</hi> Where it joyns to it, an inch and ½ over, and thence extended two inches in length; ending in a twisted or hooked <hi>Cone.</hi> Not so Muscular, as the greater <hi>Venter,</hi> but thin and Membra<g ref="char:EOLhyphen"/>nous. The inner surface also plain, or without Folds. Yet is it Glandulous, as the other: but the <hi>Mucus</hi> the Glands yield somewhat thiner.</p>
+               <p>The Guts of this <hi>Pig</hi> (so young) were near fourteen
+<pb n="15" facs="tcp:174968:9"/>yards in length. Which is more than doubled, perhaps trebled in a well grown <hi>Hog.</hi> They may be reckon'd six or seven. The First, hath several Flexures, next the Sto<g ref="char:EOLhyphen"/>mach, within the length of a ¼ of a yard, and may be called <hi>Serpentinum.</hi>
+               </p>
+               <p>The Second, about five yards and ½ long, and ½ an inch or ⅝<seg rend="sup">ths</seg> over. In this (no more than in the first) are scarce any conspicuous Glands; so that it may be called, <hi>Per<g ref="char:EOLhyphen"/>spicuum.</hi>
+               </p>
+               <p>The Third, of the length of the Second; and somewhat less in Diametre. The Vessels of This, are more numerous than of the former. And 'tis furnish'd with several large Clusters of Glands, about nine or ten: some of them an inch and ½, two or three inches long; and ¼, or ½ an inch over. And may be call'd <hi>Minus Glandosum.</hi>
+               </p>
+               <p>The Fourth, is a yard and ¾ long; where widest, as the Third; but the greatest part of it not above ⅜<seg rend="sup">ths</seg> of an inch. This Gut, instead of Clusters, is Lined with a Glandulous Lace, extended from one end to the other. At the be<g ref="char:EOLhyphen"/>ginning ¼ of an inch broad; at the end next the <hi>Caecum,</hi> ¾ of an inch. Spread or extended (as was first observed of the Glandulous Clusters) upon that side of the Gut, as is directly opposite to the Insertions of the Vessels. The other part of the Circuit of the Gut, is very thin and perspicuous. This Gut may be called <hi>Magis Glandosum.</hi>
+               </p>
+               <p>The extremity of this Gut, doth not only joyn to the <hi>Colon,</hi> but is inserted into it, and therein <hi>protuberant:</hi> very like, in shape and bigness to the Nipple of a Womans Breast that gives suck: and is likewise punched in several places at the top and round about with the <hi>Orifices</hi> of so many seve<g ref="char:EOLhyphen"/>ral Glands.</p>
+               <p>The Fifth, or <hi>Caecum,</hi> is four inches long, and an inch and ¾ over. Among all the <hi>Quadrupeds</hi> I have open'd, pe<g ref="char:EOLhyphen"/>culiar to This and the <hi>Caecum</hi> of a <hi>Horse</hi> to have the same structure with the <hi>Colon.</hi>
+               </p>
+               <p>The Sixth, or <hi>Colon,</hi> is ¾ of a yard long. Where it joyns to the <hi>Caecum</hi> an inch over; from which place it tapers all along to the other end, where it is not above ½ an inch over. Gather'd up into several Cells from end to end, with two opposite Ligaments, as in a <hi>Rabbit.</hi> At the top of it, just under the abovesaid Nipple, is a large round Cluster of Glands with very fair <hi>Orifices.</hi>
+               </p>
+               <pb n="16" facs="tcp:174968:10"/>
+               <p>Of all the <hi>Quadrupeds</hi> I have open'd, peculiar to this Animal, a <hi>Horse,</hi> and a <hi>Coney</hi> (perhaps also an <hi>Ass</hi> and a <hi>Hare</hi>) to have a true <hi>Colon:</hi> if that of a Man be the stand<g ref="char:EOLhyphen"/>ard for the Definition of it.</p>
+               <p>The Last, or <hi>Stercoraceum,</hi> is also ¾ of a yard long. Scarce any where more than ½ an inch over; and towards the <hi>Anus,</hi> not so much. Whereas in most <hi>Quadrupeds,</hi> 'tis there widest.</p>
+               <p>Here are no Bags, as above described in the Carnivo<g ref="char:EOLhyphen"/>rous Animals.</p>
+            </div>
+         </div>
+         <div n="4" type="chapter">
+            <head>CHAP. IV. <hi>Of GRAMINIVOROƲS QƲADRƲPEDS; a Sheep and a Calf.</hi>
+            </head>
+            <div type="section">
+               <head>A Sheep.</head>
+               <p>THe <hi>Gulet</hi> of a SHEEP (three years old, and weighing 120 pounds <hi>Haverdupoise</hi>) about an inch and ¾ over: which with respect to the <hi>Panch</hi> is but small. Composed of several Organical Parts: which because they are here, as well as in some other larger Animals, more conspicuous, I shall somewhat more particularly describe them.</p>
+               <p>They are all of them, by <hi>Anatomists,</hi> usually, but impro<g ref="char:EOLhyphen"/>perly called <hi>Coats:</hi> for the inermost, are the chief Body of the <hi>Gulet:</hi> So that 'tis the same, as to call the Wood of a hollow Plant, one of its Coats. 'Tis therefore composed of Five Membranes; Three in the middle, lined with a Fourth, and faced with a Fifth.</p>
+               <p>The Utmost, and the Inmost, are both Cuticular. The Inmost, or <hi>Glandulata,</hi> exceeding white, and very fri<g ref="char:EOLhyphen"/>able: answerable to the outward Rind of the Root of a Plant.</p>
+               <p>The next to it, is the Nervous. Which here, and in some other Voraceous Animals, is so very thick, that it may more properly be called the <hi>CORPƲS NERVOSƲM.</hi> Com<g ref="char:EOLhyphen"/>posed of <hi>Fibers,</hi> partly running by the length of the <hi>Gulet,</hi> and in part <hi>tranversly</hi> to the two Muscular Membranes.
+<pb n="17" facs="tcp:174968:10"/>Throughout the length of it, run many small Nerves, like the finest <hi>Lawn-Thread.</hi>
+               </p>
+               <p>This <hi>Corpus Nervosum,</hi> is, as I conceive the <hi>TENDON</hi> to the two next or Muscular Membranes.</p>
+               <p>These Two (they are at least two) are truly Muscular. <hi>Stenon</hi> hath observed them to be spirally continu'd: which of some of them is true, not of all. And Dr. <hi>Willis</hi> saith also truly, That they <hi>Decussate,</hi> the one winding from the right hand downwards, the other from the left. But, to proceed where these two accurate Persons have left; of the admirable Texture of these two Muscules, it is further ob<g ref="char:EOLhyphen"/>servable, That of each parcel of <hi>Fibers,</hi> one half is so distri<g ref="char:EOLhyphen"/>buted, as those <hi>Fibers</hi> which belong to the uppermost Mus<g ref="char:EOLhyphen"/>cule on the right hand, are in their progress towards the left, cast into that which lies underneath. And so on the contrary, those which belong to the Upmost on the left hand, are cast, into that which lies underneath on the right: both together making a perfect Plat, somewhat like to that in a <hi>Riding-Whip.</hi> The other half keeps always above, and is continu'd by a compounded line, partly <hi>Spiral,</hi> and partly <hi>Elliptick;</hi> especially towards and at the bottom of the <hi>Gula.</hi>
+               </p>
+               <p>The Stomachs or Venters in a <hi>Sheep</hi> are Four. The First, or <hi>Panch,</hi> consisteth of as many Membranes as the <hi>Gulet.</hi> The Inmost and the next, <hi>sc.</hi> the Nervous, are raised up, and made all over rough with a multitude of small Ner<g ref="char:EOLhyphen"/>vous and pointed Knots, in some places smaller and round; in others larger and flat: all very like those upon the Tongue.</p>
+               <p>In the <hi>Panch</hi> also are several <hi>Gibbosities,</hi> caused chiefly by the doublings and thickness of the Muscular Mem<g ref="char:EOLhyphen"/>branes, in those places. So that they are as it were the <hi>Ten<g ref="char:EOLhyphen"/>dons</hi> of the said Membranes.</p>
+               <p>The Second <hi>Venter,</hi> is by the <hi>Latins</hi> called <hi>Recticulum.</hi> In which are the like Nervous Knots, as in the <hi>Panch,</hi> but smaller. And comprehended within several round Ridges or Plates composed together in the form of a <hi>Net</hi> or <hi>Honey-Coome.</hi>
+               </p>
+               <p>The Third, is called the <hi>Omasus:</hi> by <hi>Butchers</hi> the <hi>Feck.</hi> Of a wonderful structure: being divided into above 40 Receptacles by so many Sepiments, great and small:
+<pb n="18" facs="tcp:174968:11"/>some ¼, ½, or ¾ of an inch, others an inch, or two inches broad. All cover'd with the like Knots, as the two former <hi>Venters;</hi> but extream small.</p>
+               <p>The Fourth <hi>Venter</hi> is called <hi>Abomasus:</hi> by <hi>Butchers,</hi> the <hi>Read.</hi> The only analogous one to that in a Man; the Membranes hereof being all alike. Saving, That the Plates (as here they are rather than Folds) are far deeper; and oppositely and regularly mett in an oblique posture.</p>
+               <p>The <hi>Guts</hi> are Six or Eight. The length of all, near 32 yards. The First, or <hi>Serpentine,</hi> from its Flexures, about ½ a yard long, and ¾ of an inch over.</p>
+               <p>The Second, or <hi>Jejunum,</hi> about 13 yards and ½, and as wide as the first.</p>
+               <p>The Third, or <hi>Ileum,</hi> 11 yards long; and an inch over.</p>
+               <p>The Fourth, or <hi>Caecum,</hi> above a Foot in length; and where widest, two inches and ½.</p>
+               <p>The Fifth, is continu'd from the <hi>Caecum</hi> without either Valve or Contraction intervening. Above a yard long; and an inch and ¼ where narrowest.</p>
+               <p>The Last, may by way of Eminence, be called the <hi>Mus<g ref="char:EOLhyphen"/>cular:</hi> being as thick as the <hi>Gulet</hi> it self. And This may be subdivided into Three. From the Fifth, it grows small to the length of an Eln; where it is ½ an inch over. Of this width it continues two Elns more and ½. After it widens again, to the <hi>Anus</hi> or the length of another Eln and ½; where 'tis near an inch and ¾ wide. In the <hi>Jejunum,</hi> the Vessels are less numerous; in the <hi>Ileum,</hi> more; in the <hi>Caecum,</hi> and the next, most; and in the Muscular, least.</p>
+               <p>The Glands, not so observable, as in those of a <hi>Calf,</hi> which I shall next describe.</p>
+            </div>
+            <div type="section">
+               <head>A Calf.</head>
+               <p>The Number, Shape, and Texture of the <hi>Gulet</hi> and <hi>Ven<g ref="char:EOLhyphen"/>ters</hi> of a CALF, are the same, as of a <hi>Sheep.</hi> The Guts much different. In length, about 20 yards. In a well grown <hi>Ox,</hi> at least thrice as long. Asking a <hi>Butcher,</hi> at his <hi>Slaughter-House,</hi> How long he thought they might be; he guessed 30 yards. But believing him mistaken, I caused them to be measur'd, and found them full 60 yards, and four over, which may be allowed for their stretching, for that they were measur'd empty.</p>
+               <pb n="19" facs="tcp:174968:11"/>
+               <p>They may be reckon'd seven or nine. The First, the <hi>Serpentinum,</hi> as in a <hi>Sheep.</hi> In length ½ a yard, and ¾ of an inch wide.</p>
+               <p>The Second, or <hi>Amplum</hi> (being the widest of all the rest but the <hi>Caecum</hi>) is five yards and ½ long; and an inch and ¾ broad. These two are very thin, and have scarce any con<g ref="char:EOLhyphen"/>spicuous Glands.</p>
+               <p>The Third, or <hi>Magis Glandosum,</hi> near seven yards long, and an inch wide. Furnished with a great many Clusters of Glands, like those in a <hi>Pig,</hi> about 50 of them; an inch ¼, or ½ long, and some longer.</p>
+               <p>The Fourth, or <hi>Gracillimum,</hi> about two yards long; and not above ½ an inch over. Whereas in a <hi>Sheep,</hi> the <hi>Guts</hi> next the <hi>Venters,</hi> and that following, are near of one width. Somewhat thicker and more fleshy than any of the former. Hath several Clusters of large Glands; but nothing near so many, no not with respect to its length, as the precedent: and may therefore be also called <hi>Minus Glandosum.</hi>
+               </p>
+               <p>The Fifth, or <hi>Maximè Glandosum,</hi> is a yard and ¾ long, and an inch wide. By far the most opacous, thick and ponde<g ref="char:EOLhyphen"/>rous of all the five. Lined throughout the length, with such a Glandulous Lace, as in a <hi>Pig.</hi> This Lace is thicker than all the other Parts of the Gut together. At the begin<g ref="char:EOLhyphen"/>ning ½ an inch, at the lower end an inch broad. The rest of the Gut, over which this is not spread, is perspicuous.</p>
+               <p>The Sixth, or <hi>Caecum,</hi> near two feet long, and above two inches and ¼ over where widest; where narrowest, an inch. Very thin, and without any considerable Glands.</p>
+               <p>The Last, or <hi>Musculare,</hi> two yards and ½ long, and of the same Diametre in its several parts as in a <hi>Sheep;</hi> being wide at both ends, and slender in the middle: and may therefore, as that, be subdivided into three.</p>
+            </div>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="20" facs="tcp:174968:12"/>
+            <head>CHAP. V. <hi>Of the Ʋses of the Gulet and Stomachs of Quadrupeds. And first of the Gulet.</hi>
+            </head>
+            <p>IN speaking hereof, I shall, as in the Anatomical Part, insist chiefly on those Particulars which have been omitted by others.</p>
+            <p>It may therefore first be noted of the bore of the <hi>Gulet,</hi> That it is not every where alike answerable to the Body or Stomach. As in a <hi>Fox,</hi> which both feeds on Bones, and swal<g ref="char:EOLhyphen"/>lows whole, or with little chewing; and next in a <hi>Dog,</hi> and other Ossivorous <hi>Quadrupeds,</hi> 'tis very large; <hi>sc.</hi> to prevent a contusion therein. Next in a <hi>Horse;</hi> which though he feeds on <hi>Grass,</hi> yet swallows much at once, and so requires a more open passage. But in a <hi>Sheep, Rabbit,</hi> or <hi>Ox,</hi> which bite short, and swallow less at once, 'tis smaller. But in a <hi>Squirel,</hi> still lesser, both because he eats fine, and to keep him from disgorging his meat upon his descending leaps. And so in <hi>Rats</hi> and <hi>Mice,</hi> which often run along Walls with their Heads downward.</p>
+            <p>The Thickness of the <hi>Gulet</hi> is also different. So in a <hi>Weesle</hi> or <hi>Pole-Cat,</hi> which eat no Bones, more Membranous or Skiny. In <hi>Dogs</hi> more Muscular, greater force being re<g ref="char:EOLhyphen"/>quired to carry down Bones, than Flesh. But in <hi>Sheep, Hogs, Cows, Horses</hi> most of all; for three Reasons: First, For that <hi>Grass,</hi> and especially <hi>Hay</hi> is less slippery, and apt to clog by the way. Secondly, Because they eat continu<g ref="char:EOLhyphen"/>ally, and so the Gulet is in continual action, which it could not bear without pain, were it not made sturdy for hard la<g ref="char:EOLhyphen"/>bour: in like manner, as are the Muscules of the Chaps, and especially the <hi>Masseter,</hi> in all the said Animals. Thirdly, For that all they eat and drink (because they hold their Heads down) must be made by a greater force to <hi>ascend</hi> into their Stomachs. Whereas in Carnivorous Animals, and espe<g ref="char:EOLhyphen"/>cially a Man, it passeth by descent. And there are few, but may remember, how difficult it was, when they were Boys, to drink with their Heads down at a Spring. And al<g ref="char:EOLhyphen"/>though <hi>Dogs</hi> drink with their Heads down, yet they can
+<pb n="21" facs="tcp:174968:12"/>only <hi>Lap,</hi> their Gulet not being Muscular enough to <hi>carry up</hi> much at once.</p>
+            <p>The several Parts of the Gulet, have their distinct Uses. The outer Membrane, is both a Fence, and a Swath to all the rest; especially to the Muscular. For the Nervous un<g ref="char:EOLhyphen"/>derneath, being always capable of, and sometimes subject to inordinate expansions (as Dr. <hi>Willis</hi> doth well conjecture) it would Rack the Muscular Membranes beyond their Tone, were they not bound up within this.</p>
+            <p>The two Musculars, chiefly subserve the several Motions of the Gulet. Amongst which, Dr. <hi>Willis</hi> reckons Oscitation or Yauning, and Expuition. Of the first,
+<note place="margin">(a) Phar<g ref="char:EOLhyphen"/>mac. Ration. P. 1.</note> his words are these; <hi>In Oscitatione, Oesophagi ductum ampliari, &amp; quasi a vento quodam inflari &amp; expandi sentimus.</hi> But who knows not, that the <hi>Windpipe,</hi> and not the <hi>Gulet,</hi> is the part con<g ref="char:EOLhyphen"/>cern'd in all kinds of Respiration, whereof <hi>Oscitation</hi> is one. Of the latter, his words are these;
+<note place="margin">(b) Ibid.</note>
+               <hi>Gulae Tunica carnosa, duplex quasi Musculus censeri debet; quorum alter, expuitio<g ref="char:EOLhyphen"/>nis opus perficit.</hi> At that time forgeting, that no man ever spat any thing out of his Stomach; no more than he can be said to vomit or eructate out of his Mouth. The Doctor is one, of whom I have learned much: and therefore I mention these Things, only because they lie in my way: and that we may still remember, <hi>Nullius in Verba.</hi>
+            </p>
+            <p>The Actions of the <hi>Gulet</hi> are therefore principally these Three, <hi>Deglutition, Vomition,</hi> and <hi>Eructation.</hi> By one of the Muscular Membranes, saith the forementioned Doctor, <hi>sc.</hi> that which descends, <hi>Deglutition</hi> is performed; by the ascendent, <hi>Vomition.</hi> His words
+<note place="margin">(c) Ibid.</note> are these, <hi>Cùm unius Fi<g ref="char:EOLhyphen"/>brarum ordo descendens, Deglutitioni inserviat; alter ascendens, Vomitionis opus perficit.</hi> But that he was herein mistaken, I conceive, appears from the structure of the said Membranes, neither of which, is ascendent or descendent, more than the other; and from the manner of their Contexture, as is above describ'd. Besides, if it were so, why should there not be <hi>Ascendent</hi> and <hi>Descendent Fibers</hi> or <hi>Muscules,</hi> for the Natural, and the Inverted Motions also of the <hi>Guts?</hi>
+            </p>
+            <p>I conceive therefore, That <hi>Deglutition</hi> and <hi>Vomition</hi> are made by the Cooperation of both the said Membranes: only in the former, the Motion goes from the Throat downward, in the latter, from the Stomach upward. And
+<pb n="22" facs="tcp:174968:13"/>so in <hi>Eructation,</hi> only with less force. For the performance of which Actions, Two Muscules or Muscular Membranes are yet requisite; and those platted and interchanged, as hath been describ'd: That is, by a double Plat of the <hi>Fi<g ref="char:EOLhyphen"/>bers</hi> of both; whereby half the nether Membrane on the one side the <hi>Gulet,</hi> becomes half the upper Membrane on the other side: and so <hi>vice versa,</hi> in spiral rounds through<g ref="char:EOLhyphen"/>out. To the end, That the <hi>Gulet</hi> being hereby contracted in one part, and dilated in the next, might at the same time, thrust forward, and let pass, any body therein contain'd: and that the said <hi>Contractions</hi> and <hi>Dilatations</hi> might be more easily and regularly made, and by reciprocal <hi>Ʋndula<g ref="char:EOLhyphen"/>tions,</hi> carry'd on from one end of the <hi>Gulet</hi> to the other. These <hi>Ʋndulations,</hi> in the <hi>Gulet</hi> of a <hi>Horse,</hi> when he drinks, are very plainly seen.</p>
+            <p>And that this <hi>Ʋndulation</hi> may be made with more speed, it is observable, That the said <hi>Muscular Fibers</hi> are not con<g ref="char:EOLhyphen"/>tinu'd by a close, but very oblique or open spiral Line. Whereby, as the spiral Rounds or Circuits, so the <hi>Ʋndula<g ref="char:EOLhyphen"/>tions,</hi> are the fewer; and consequently, not slowly (as in the <hi>Guts</hi>) but much sooner finished.</p>
+            <p>Hence it is, That a <hi>Cat</hi> hath so difficult a swallow, the meat commonly seeming to stick in her Throat. Not from the smallness of her <hi>Gulet;</hi> but for that in the longer half of it, the <hi>Muscular Fibers</hi> are continu'd in so close a spiral Line, as rather to seem <hi>Annular.</hi> Whereby, the <hi>Ʋndulati<g ref="char:EOLhyphen"/>ons</hi> of the <hi>Gulet</hi> are more slowly and difficultly made. So that a more difficult swallow, being one thing necessary to make her not greedy, but patiently to watch for her Prey; Nature hath therefore contriv'd her <hi>Gulet</hi> for that pur<g ref="char:EOLhyphen"/>pose.</p>
+            <p>The Nervous Membrane, or (as in some <hi>Graminivorous Animals</hi> it may be call'd) <hi>Corpus Nervosum,</hi> hath hitherto been thought to serve only for sense. Dr. <hi>Willis</hi> Con<g ref="char:EOLhyphen"/>jectures, That it is also the Instrument of some certain mo<g ref="char:EOLhyphen"/>tions of expansion in <hi>Oscitation</hi> and <hi>Preternatural Inflation:</hi> which is all he saith.</p>
+            <p>But to Me, it seemeth, That it Cooperates with the Muscular Membrane to all the Natural Motions of the <hi>Gulet,</hi> in <hi>Deglutition, Vomition,</hi> and <hi>Eructation.</hi> And, to speak properly, That 'tis nothing else but a HOLLOW
+<pb n="23" facs="tcp:174968:13"/>TENDON; that is, the <hi>Tendon</hi> of the two Muscular Mem<g ref="char:EOLhyphen"/>branes.</p>
+            <p>It may be Objected, That then it should lie above, not under the Membranes. But in a <hi>Gizard,</hi> we find the <hi>Ten<g ref="char:EOLhyphen"/>don</hi> spread within or underneath the Fleshy part of the Muscules, as well as above.</p>
+            <p>The truth of this will further appear, if we consider the great Thickness of this Membrane, where the most force<g ref="char:EOLhyphen"/>able motions of the <hi>Gulet</hi> are required. For it would serve as well for sensation, if it were ten times as thin: the gross<g ref="char:EOLhyphen"/>ness of the sensory, not being necessary to the exquisiteness of the sense; but of the mover, always to the strength of the motion. And therefore, whereas the <hi>Cuticular</hi> or ut<g ref="char:EOLhyphen"/>most Membrane is much of the same thickness in all Ani<g ref="char:EOLhyphen"/>mals; the Nervous is much varied according to the thin<g ref="char:EOLhyphen"/>ness or thickness of the Muscular: that is, where the Mus<g ref="char:EOLhyphen"/>cule is thick, the <hi>Tendon</hi> is proportionable. The notice of which in <hi>Oxen, &amp;c.</hi> sheweth the same use hereof in a man.</p>
+            <p>The Inmost Skin or Lining of the <hi>Gula,</hi> is to be a pro<g ref="char:EOLhyphen"/>tection to the Nervous, as the outer is to the <hi>Muscular;</hi> that so nothing hard, salt, sower, or any way acrimonious, may be injurious to it. To keep it the better within bounds, in all the motions of the <hi>Gulet.</hi> To be the Bed of the Glands. And one seat of Thirst; which oftentimes lies no deeper than the Throat and upper part of the <hi>Gulet:</hi> and is cured by any thing which by moistening the Throat shall give vent to the <hi>Mucus stagnant</hi> therein.</p>
+         </div>
+         <div n="6" type="chapter">
+            <head>CHAP. VI. <hi>Of the Ʋses of the Stomachs of Quadrupeds.</hi>
+            </head>
+            <p>ANd first, all <hi>Carnivorous Quadrupeds</hi> have the smallest <hi>Ventricles;</hi> flesh going farthest. Those that feed on Fruits and Roots have them of a middle size. Yet the <hi>Mole,</hi> because It feeds unclean, hath a very great one. <hi>Sheep</hi> and <hi>Oxen,</hi> which feed on <hi>Grass,</hi> have the greatest. Yet the <hi>Horse</hi> (and for the same reason the <hi>Coney</hi> and <hi>Hare</hi>) though
+<pb n="24" facs="tcp:174968:14"/>
+               <hi>Graminivorous,</hi> yet comparatively have but little ones. For that a <hi>Horse</hi> is made for labour, and both This and the <hi>Hare</hi> for quick and continu'd motion: for which, the most easie Respiration, and so the freest motion of the <hi>Diaphragme</hi> is very requisite; which yet could not be, should the Stomach lie big and cumbersome upon it, as in <hi>Sheep</hi> and <hi>Oxen</hi> it doth. For which cause Nature hath here transfer'd the greater part of the <hi>Alimental Lugage</hi> into the <hi>Caecum.</hi>
+            </p>
+            <p>The Neck of the Stomach, near the Gut, is commonly reflected backward, so as to make an acute Angle with the Back of it. To the end, the extrusion of the prepared <hi>Ali<g ref="char:EOLhyphen"/>ment</hi> to the Gut, may be stinted. And that the thiner part, which will more easily wind about, may the better pass away, and leave the rest behind. Sometimes it hath three or four <hi>Flexures,</hi> as in <hi>Sheep</hi> and <hi>Oxen:</hi> for that the Gut being so small with respect to the <hi>Venter,</hi> and with all so very thin; it would, by too sudden or copious an irruption of the <hi>Aliment,</hi> be in danger of being burst. And for the same reasons, the Stomach of a <hi>Pig,</hi> so voraceous a Crea<g ref="char:EOLhyphen"/>ture, is also furnished with a Stopple.</p>
+            <p>The distinct uses of the Parts of the Stomach, are many of them the same as of the <hi>Gulet.</hi> I shall not therefore re<g ref="char:EOLhyphen"/>peat, but proceed to those particulars as remain to be ex<g ref="char:EOLhyphen"/>plicated.</p>
+            <p>And first, 'tis plain, in those thick Stomachs of an <hi>Ox</hi> or a <hi>Sheep,</hi> that the carneous Membranes are true <hi>Muscules:</hi> which conducteth us more easily to believe that of a man also <hi>Muscular.</hi> 'Tis certain, that the <hi>Muscules</hi> of the <hi>Abdo<g ref="char:EOLhyphen"/>men</hi> in some Animals, as in <hi>Squirels,</hi> are thiner than those of a mans Stomach.</p>
+            <p>Now the Nervous and Muscular Parts joyntly subserve to all the motions of the Stomach, which I reckon five, <hi>viz. Corrugation, Astriction, Ʋndulation, Convulsion,</hi> and <hi>Voluntary Motion.</hi>
+            </p>
+            <p>
+               <hi>Corrugation,</hi> is when there is a double motion of Con<g ref="char:EOLhyphen"/>traction, beginning from both the <hi>Orifices</hi> of the Stomach, and so drawing it up into innumerable small Wrinkles. For the better expression of the <hi>Mucus</hi> out of the <hi>Glands</hi> of the inner Membrance. For a closer comprehension of the <hi>Ali<g ref="char:EOLhyphen"/>ment,</hi> and immission of the said <hi>Mucus</hi> or other fermenting Juyce, into it. And for the gradual expression of the colli<g ref="char:EOLhyphen"/>quated
+<pb n="25" facs="tcp:174968:14"/>parts thereof into the Gut. In this motion, the ut<g ref="char:EOLhyphen"/>most <hi>Muscular Fibers</hi> contract the Stomach in length; and the inermost, in breadth.</p>
+            <p>
+               <hi>Astriction,</hi> is a Contraction only about the <hi>Pylorus;</hi> per<g ref="char:EOLhyphen"/>formed by the inermost <hi>Fibers</hi> alone. For the firmer Re<g ref="char:EOLhyphen"/>tention of the <hi>Aliment,</hi> and its orderly dismission into the Gut.</p>
+            <p>
+               <hi>Ʋndulation,</hi> is when the Contraction is made in several parts of the Stomach successively, beginning at one <hi>Orifice,</hi> or End, and terminating at the opposite. Made also by the Inner <hi>Fibers;</hi> after the same manner, as the <hi>Ʋndulation</hi> or <hi>Peristaltick Motion</hi> of the <hi>Guts.</hi> The use of it, is either for <hi>Excretion</hi> or <hi>Eructation.</hi> If it begins from the <hi>Gulet,</hi> it serves, after the finest of the <hi>Aliment</hi> is discharg'd by <hi>Corru<g ref="char:EOLhyphen"/>gation,</hi> for Excretion of the rest. But if the <hi>Ʋndulation</hi> be Inverted, or begins from the <hi>Pylorus,</hi> it produceth <hi>Eructation.</hi> Answering to the like Inverted Motion, which sometimes happens in the <hi>Guts.</hi>
+            </p>
+            <p>
+               <hi>Convulsion,</hi> is a forcible and suddain Contraction of all the Orders of <hi>Fibers,</hi> outer, middle, and inmost. The use hereof with <hi>Ʋndulation,</hi> is for <hi>Vomition.</hi> For first, there is only an Inverted <hi>Ʋndulation,</hi> that is, I conceive, when there is only a <hi>Naucea</hi> or tendency to Vomit. Which <hi>Ʋndulation</hi> also, carries part of the matter by degrees, to the upper mouth of the Stomach. And growing quicker and stronger, at last turns into a <hi>Convulsion;</hi> the Stomach being hereby contracted both in width and length, and the <hi>Pylorus</hi> forced up to the upper <hi>Orifice</hi> (as a <hi>Barbars Puff</hi> in powdering the <hi>Hair,</hi> or the <hi>Bladder</hi> in the Injection of a Clyster) and so produceth actual <hi>Vomition.</hi>
+            </p>
+            <p>
+               <hi>The Voluntary Motion of the Stomach,</hi> is that only which accompanies <hi>Rumination.</hi> That it is truly voluntary, is clear, from the Command that Ruminating Animals have of that Action. For this purpose it is, that the <hi>Muscules</hi> of their <hi>Venters</hi> are so thick and strong; and have several <hi>Duplicatures</hi> as the Bases of those <hi>Muscules,</hi> whereupon the stress of their motion lies. By means whereof, they are able with ease to rowl and tumble any part of the meat from one Cell of the same Venter to another, or from one Ven<g ref="char:EOLhyphen"/>ter to another, or from thence into the <hi>Gulet,</hi> whensoever they are minded to do it. So that the Ejection of the meat
+<pb n="26" facs="tcp:174968:15"/>in Rumination, is a <hi>Voluntary Eructation.</hi> Not at all labo<g ref="char:EOLhyphen"/>rious to them, because of the great strength of the Muscules of their Stomach and Gulet to command and govern the same.</p>
+            <p>By the Joynt assistance of the Glandulous and the Ner<g ref="char:EOLhyphen"/>vous Membranes, the business of <hi>Chylification</hi> seems to be perform'd. The <hi>Mucous</hi> Excrement of the Blood being supply'd by the former, as an Animal <hi>Corrosive,</hi> preparing; and the Excrement of the Nerves by the latter, as an Animal Ferment, perfecting the Work. And the <hi>Caecus Ventricu<g ref="char:EOLhyphen"/>lus</hi> of a <hi>Hog,</hi> seems to be a <hi>Repository</hi> provided for such a mixed <hi>Leven</hi> or <hi>Menstruum:</hi> whereby he not only becomes more voraceous, having thence continual irritations to eat: but all he eats, is thereby likewise well digested.</p>
+            <p>The Folds of the Stomach, which in its <hi>Corrugation</hi> must needs be much deeper than when it is dilated, or of use, To divide the <hi>Aliment</hi> into several Portions, and thereby ad<g ref="char:EOLhyphen"/>minister their Ferments not only to the Circumference, but intimate parts of the Mass to be fermented.</p>
+            <p>The pointed Knots, like little <hi>Papillae,</hi> in the Stomachs of divers Ruminating Beasts, are also of great use, <hi>viz.</hi> For the Tasting of the Meat. Dr. <hi>Willis</hi> describing the Inner Membrane of the Stomach (not of a Beast, but expresly of a Man) speaketh thus; <hi>Haec Crusta Ventriculum</hi> (Huma<g ref="char:EOLhyphen"/>num puta) <hi>intus obtegens, similis videtur Illi, quae Linguam obtegit.</hi> Wherein he was mistaken: this Inner Membrane being Glandulous; the Skin of the Tongue not so, but only Fibrous. But of divers Beasts which Ruminate, thus much is true, That in their Three first Venters, the Inner Mem<g ref="char:EOLhyphen"/>brane is Fibrous, and not Glandulous; the fourth only be<g ref="char:EOLhyphen"/>ing Glandulous, as in a man. Of the Fibers of this Mem<g ref="char:EOLhyphen"/>brane and the Nervous, are composed those pointed Knots before described
+<note place="margin">(a) Chap. 4.</note> both in substance and shape, altogether like to those upon the Tongue. Whence I doubt not, but that the said Three <hi>Ventricles,</hi> as they have a power of <hi>Volun<g ref="char:EOLhyphen"/>tary Motion:</hi> so likewise, that they are the <hi>Seat</hi> of <hi>Tast,</hi> and as truly the <hi>Organs</hi> of that sense, as is the Tongue it self.</p>
+            <p>Lastly, and consequently, the said Nervous Knots, are of use to Methodize the Work of <hi>Rumination,</hi> after this manner. The Animal having eaten enough for the <hi>Panch</hi>
+               <pb n="27" facs="tcp:174968:15"/>well to govern; rowles and tumbles the meat to and fro therein: and at the same time, with the help of the said Nervous Knots of several degrees of fineness (as the <hi>Gold<g ref="char:EOLhyphen"/>smith</hi> hath his <hi>Assayers</hi> of several degrees of niceness) judges of the Courseness or Fineness, Crudeness, or Concoction of any part of it; and accordingly lets it rest, or removes it. So then the grossest of these <hi>Assayers</hi> standing about the <hi>Gulet,</hi> and so in the passage of the meat between the <hi>Panch</hi> and the <hi>Reticulum,</hi> being the proper judges of what is Course or Crude; if they find it so, then 'tis tumbled back to receive a further maturation in the <hi>Panch.</hi> If somewhat fine and Concocted, 'tis then permitted to pass on and rowl into the <hi>Reticulum.</hi> And the said <hi>Assayers</hi> or <hi>Nervous Knobs</hi> being here sharper and softer, than in the <hi>Panch;</hi> have still a more accurate Tast: and therefore what they yet find too course, the <hi>Reticulum</hi> forthwith throws it up into the Gulet and Mouth. From whence, being further refined, 'tis re<g ref="char:EOLhyphen"/>manded to the <hi>Reticulum;</hi> and thence after a while, into the Third Stomach or the <hi>Omasus.</hi> And This again being a more nice <hi>Assayer</hi> than the <hi>Reticulum;</hi> if it feels the meat fine and soft enough, passeth it into the last Stomach or <hi>Abomasus.</hi> But if otherwise, throws it back into the <hi>Reti<g ref="char:EOLhyphen"/>culum,</hi> and the <hi>Reticulum</hi> into the Gulet and Mouth to be labour'd once again, and so remanded.</p>
+         </div>
+         <div n="7" type="chapter">
+            <head>CHAP. VII. <hi>Of the Ʋses of the Guts of Quadrupeds.</hi>
+            </head>
+            <p>I Shall here, as before, pass over such particulars as have been spoken of by others; and divers also which being observable in the Gulet and Stomachs, as well as here, have been already sufficiently explain'd.</p>
+            <p>And first the different Bore of the Guts is observable. So, for example, the Guts of a <hi>Horse</hi> are very wide. For that he both swalloweth, and dischargeth from his Stomach into his Guts, the meat more gross; which therefore re<g ref="char:EOLhyphen"/>quireth a more open passage, lest it should clog. As also, that it may move with greater speed towards the <hi>Caecum,</hi>
+               <pb n="28" facs="tcp:174968:16"/>here,
+<note place="margin">(a) Chap. 6.</note> for the reason above-said, design'd by Nature to be a second Stomach. Whereas in an <hi>Ox</hi> or a <hi>Sheep,</hi> the meat having passed four successive Concoctions, 'tis thence deli<g ref="char:EOLhyphen"/>vered to the Guts of a much finer substance; and so moveth safe enough through a much smaller Chanel; and fast enough, there being much less work here left, for the <hi>Caecum</hi> to perform.</p>
+            <p>The Contraction also of the Guts, or lessening of the Bore by several Necks, is of good use. As for instance, in an <hi>Ʋrchan</hi> or <hi>Cat;</hi> serving to stint the Transition of the meat, that it be not over quick, and dividing the Guts into so many little <hi>Venters,</hi> in which the meat restagnates for some time, in order to its reception of as many repeated Con<g ref="char:EOLhyphen"/>coctions. Whereby also in these Animals the work of the <hi>Caecum,</hi> and therefore the making of it, seems superseded.</p>
+            <p>Moreover, the rarious length of the Guts is observable, according to the cleanness, or more fewer nutritive parts of the Food; or its colliquability into <hi>Chyle.</hi> So in a <hi>Weesle</hi> or <hi>Squirel,</hi> that feeds much on Eggs, and Nuts, and such like fine and nutritive food, they are extream short. And in all Gross eaters, longer than in other <hi>Quadrupeds.</hi> And therefore one reason, why the Guts of a Sheep or <hi>Ox</hi> are slender, is, that they may be long. For were they shorter and wider, it would not be <hi>tantamount:</hi> For the food being <hi>Grass,</hi> it is not sufficient that they should hold enough: but also necessary, that they give a longer voyage to a substance so jejune, for a thorow solution and exuction of all its nu<g ref="char:EOLhyphen"/>tritive parts. Besides, that in a smaller Channel, the said parts will all along lie nearer to the Lacteal Veins, and so more easily be express'd into them.</p>
+            <p>The Membranes of the Guts, have a general analogy in all <hi>Quadrupeds,</hi> and divers of their Uses have been well assign'd. I shall therefore only Note, That as the spiral <hi>Fibers</hi> contract or purse up the Bore of the Gut; so those that run by the length, draw it up shorter, and so dilate it. Whereby, as one part of the Gut may press the meat for<g ref="char:EOLhyphen"/>ward, or as it were disgorge it, so another gape to receive it, at the same time. And in case one Gut should by ano<g ref="char:EOLhyphen"/>ther, or by some Bowel, be oppress'd, being by the said Con<g ref="char:EOLhyphen"/>traction in length removed a little out of its place; the free<g ref="char:EOLhyphen"/>dom of its motion, or any thing therein, will thereby be regain'd.</p>
+            <pb n="29" facs="tcp:174968:16"/>
+            <p>But in a <hi>Mole,</hi> the same <hi>Fibers</hi> which run by the length, being Indented, do also for a little way, each parcel obliquely run by the breadth of the Gut. Whereby they are able, without the help of spiral <hi>Fibers,</hi> to narrow or shorten the Gut of themselves: and also to do both in the same place. For by the Relaxation of the <hi>Fibers,</hi> the sides of every Indenture, must needs grow both wider and more distant, and the Gut wider and more extended, at the same time: and so <hi>Vice versa.</hi> Probably with this design, That the Shells of <hi>In<g ref="char:EOLhyphen"/>sects</hi> may make a more safe transition, without raking against the tender sides of the Guts.</p>
+            <p>The Glands of the Guts are likewise of great Use. The <hi>Mucus</hi> which they spew, serves to make the Guts slip<g ref="char:EOLhyphen"/>pery, that the meat may the more easily and fasely glide along. As also for another Ferment superinduc'd to that of the Stomach, and so a further colliquation of the meat. With respect to both which Uses, the said Glands, according to the Bore of the Guts, the hardness or softness, courseness or colliquability of the meat, are more or less numerous; as in the precedent Examples.</p>
+            <p>And that this <hi>Mucus</hi> may be duly supply'd, Nature still allows <hi>Blood-Vessels</hi> proportionable to the plenty of Glands. And hath taken care that the Vessels enter not the Guts on the same side on which the Glands are seated, but the oppo<g ref="char:EOLhyphen"/>site: that having space enough to branch themselves into the smallest capillary Tubes, before they reach the Glands, there may be the less danger, that any sincere Blood should with the <hi>Mucus</hi> make an Inundation into them.</p>
+            <p>Through the same Glands, as so many little Springs, I con<g ref="char:EOLhyphen"/>ceive, That the Humours are either emunged, or precipi<g ref="char:EOLhyphen"/>tated, out of the Blood, in Purgation. For that one so small a <hi>Pipe,</hi> as that of the <hi>Pancreas</hi> should bring so great a quan<g ref="char:EOLhyphen"/>tity, is not at all probable. And the Glands being a visible way, I know no reason, wherefore we should have recourse to any invisible one.</p>
+            <p>Thus the same Glands are a great means to prevent <hi>Fea<g ref="char:EOLhyphen"/>vers,</hi> and other ill effects of <hi>Cold</hi> by a <hi>Diarrhea.</hi> For when by a suddain astriction of the Pores of the Skin, or other<g ref="char:EOLhyphen"/>wise, the usual perspiration is stop'd: the redundant matter in the Blood, is often safely discharged, by the Glands, into the Guts. But if the matter be very sharp, or rusheth upon
+<pb n="30" facs="tcp:174968:17"/>the Glands too suddainly; it sometimes corrodes or breaks them, and so makes way for Blood also: as may be observ'd in the Guts of such as die of a <hi>Dysentry.</hi>
+            </p>
+            <p>The Use of the <hi>Caecum</hi> is manifold, but divers in divers Animals; according to the make of it, and the Relation it bears to the Stomachs and the Guts. And first, for the most part, it serves to give a second Deliberate Concoction to the meat, that nothing nutritive in it may be lost. For which purpose, it is always furnish'd with Glands, as well as the other Guts. And, with respect to its width, is commonly but thin, or less muscular, that so being less apt to constringe it self, it may give a due time of stay to the meat deliver'd to it. For which end also it is placed out of the common Road of the Guts; that being thereby less receptive of their <hi>Peristaltick Motion;</hi> it may lie the more still. For the same intent the <hi>Caecum</hi> in a <hi>Sheep</hi> hath several <hi>Flexures</hi> answerable to those in the 4th Stomach or <hi>Abomasus.</hi> And in a <hi>Hog,</hi> 'tis drawn up into Cells on both sides, like the <hi>Colon,</hi> to make it so much the more retentive. In the <hi>Coney,</hi> the same is done still more effectually, by the spiral Plate, or Connivent <hi>Valve</hi> winding from end to end. And in the <hi>Horse,</hi> not by two only, but four Rows of Cells on the four sides. In which two last Animals the said Use is so eminent, that the <hi>Caecum,</hi> considering its bigness withall, is the chief Stomach, and much superior to the <hi>Stomach</hi> so call'd. And it is also ob<g ref="char:EOLhyphen"/>servable, That the <hi>Abomasideus</hi> in a <hi>Rat,</hi> hath the same re<g ref="char:EOLhyphen"/>lation to the <hi>Caecum;</hi> as in a <hi>Sheep,</hi> the <hi>Abomasus</hi> hath to the other Stomachs. Hence likewise it may be, that some Ani<g ref="char:EOLhyphen"/>mals have little or no <hi>Caecum:</hi> either because the meat is so dissoluble, as not to need a second deliberate Concoction, as in a <hi>Weesle;</hi> or for that Nature hath made something else to serve without it; as those several Contractions in the Guts of a <hi>Cat;</hi> and the <hi>Valvulae Conniventes</hi> in the small Guts of a Man. Where we may observe, That these <hi>Valves</hi> are not every where spiral, as is thought, but do also make some perfect and distinct Rings: whereby they are fitter to retard the motion of the meat in its descent.</p>
+            <p>Another Use may be, For a Retreat; Either to the meat, if it should chance to rush too fast into the Gut below it: Or to the Excrements, in case the Animal is diverted from a present ejection of them.</p>
+            <pb n="31" facs="tcp:174968:17"/>
+            <p>The last Use, I shall name, may be this, That in case the meat, or the Excrements in the lower Guts should be at any time so dry and hard, as too slowly, and not without much stress to the Guts, to descend; the <hi>Caecum</hi> is as a <hi>Clyster-Bag,</hi> always ready with its liquid Content, to be in some part thereinto injected. For which purpose, it usually makes an acute angle with the upper Guts, and opens directly into those below it.</p>
+            <p>The Make of the Colon, with other Uses, also answers to the greater need of Retention. Either because of the up<g ref="char:EOLhyphen"/>right posture, as in a Man; or frequent and speedy motions, as in a <hi>Horse</hi> or <hi>Hare:</hi> where, without the Cells of the <hi>Colon,</hi> to retain the Excrements from the <hi>Rectum,</hi> there would be a continual <hi>Conatus egerendi.</hi>
+            </p>
+            <p>The <hi>Rectum,</hi> or rather <hi>Stercoraceum</hi> of a <hi>Cat,</hi> being pecu<g ref="char:EOLhyphen"/>liarly of so great a bulk; I will conclude with a Conjecture of one Use of it: and that is, To be as a <hi>Counter-poise</hi> to her Head: whereby, from what height soever she falls, she still lights upon her feet.</p>
+         </div>
+         <div n="8" type="chapter">
+            <head>CHAP. VIII. <hi>Of the Stomachs and Guts of BIRDS.</hi>
+            </head>
+            <p>BEcause that many particulars will here occur, which are intelligible from the former Descriptions, and have already been explain'd; I shall therefore be the shorter. Of about Forty, which I have open'd, I shall describe these Thirteen that follow, <hi>sc.</hi> of a <hi>Casowary,</hi> an <hi>Owl,</hi> a <hi>Cuckow,</hi> a <hi>Dunghil-Cock,</hi> a <hi>Tame Pigeon,</hi> a <hi>Jackdaw,</hi> a <hi>Starling,</hi> a <hi>Yellow<g ref="char:EOLhyphen"/>hammer,</hi> a <hi>Bull-finch,</hi> a <hi>Wry-neck,</hi> a <hi>Bunting,</hi> a <hi>Reed-Sparrow,</hi> and a <hi>House-Swallow:</hi> and figure them all, but those of a <hi>Cuckow.</hi> With Notes upon others, as I proceed.</p>
+            <div type="section">
+               <head>Of a Casowary.</head>
+               <p>The CASOWARY hath no Crop. But a wider Gulet, I suppose, as well as Guts, than in any other Bird. Far greater than those of an <hi>Ostrich;</hi> although the Body be much less. The Gulet, where widest, or near the Throat, about five inches
+<pb n="32" facs="tcp:174968:18"/>over; next the Stomach, two. Sprinkled with many small Glands, as it is, more or less, in all Birds.</p>
+               <p>At the bottom of it, the <hi>Echinus;</hi> common to all Birds that I have open'd. But here less conspicuous. The Figure hath not express'd it. It hath always a Lining of much larger Glands than those in the <hi>Gulet</hi> or <hi>Crop;</hi> commonly of an Oval Figure, and each of them with an open mouth spewing out a <hi>Mucus.</hi>
+               </p>
+               <p>He hath no Gizard (as hath the <hi>Ostrich);</hi> yet a thick Muscular Stomach, as in other Carnivorous Birds. Almost of an Oval shape; and small with respect to the Guts: ex<g ref="char:EOLhyphen"/>pressed somewhat too big for the Scale, (as also the <hi>Gulet</hi> and <hi>Guts</hi>) in the Figure. The <hi>Pylorus</hi> guarded with a kind of <hi>Valve.</hi>
+               </p>
+               <p>The <hi>Guts</hi> not two yards and half long. Beside the two <hi>Caeca,</hi> are three. The larger, next the Stomach: as it is, in almost all other Birds. About three inches and ½ over, where widest. The smaller, somewhat above two. The <hi>Rectum,</hi> the largest, <hi>sc.</hi> about four. Much wider than even those of a <hi>Horse,</hi> excepting only his <hi>Caecum</hi> and his <hi>Colon.</hi>
+               </p>
+               <p>He hath two <hi>Caeca;</hi> as have almost all Birds. Yet here very small, about ½ a foot long, but no thicker than a Womans little Finger. Here, as in all other Birds, making obtuse Angles with the <hi>Rectum.</hi> So that what is said of them in Mr. <hi>Willughby</hi>'s <hi>Ornithologia,—Cum Intestino Recto an<g ref="char:EOLhyphen"/>gulos acutos faciunt:</hi> was only a slip of that most accurate Pen.</p>
+               <p>The <hi>Rectum</hi> is separated from the next above, by a Con<g ref="char:EOLhyphen"/>nivent <hi>Valve.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of an Owle.</head>
+               <p>The <hi>Gulet</hi> of a young Grey-OWLE, is of an indifferent size. At the bottom of it, the <hi>Echinus.</hi> And somewhat more apparent, than in the <hi>Casowary,</hi> but less than in most frugivorous Birds.</p>
+               <p>The Stomach, a middle Thing betwixt that of other Carnivorous Birds, and a <hi>Gizard, sc.</hi> a plain Bag, yet in the middle somewhat Tendinous.</p>
+               <p>The <hi>Guts</hi> in length two feet and ½. Three, besides the
+<pb n="33" facs="tcp:174968:18"/>
+                  <hi>Caeca.</hi> The first or <hi>Amplum,</hi> a foot long; and above ¼ of an inch broad. The <hi>Gracile,</hi> which reacheth to the <hi>Caeca,</hi> a foot and three inches; and above ⅛ of an inch where nar<g ref="char:EOLhyphen"/>rowest. In this Gut, are 15 or 16 Contractions, like those in a <hi>Cat</hi>'s, but made longer.</p>
+               <p>The <hi>Caeca,</hi> four inches and ½ long. As the <hi>Gizard</hi> of a middle Nature, so these of a middle size, betwixt those of some Carnivorous, and some <hi>Frugivorous Birds.</hi> At their close or further ends, ½ an inch over. But where they en<g ref="char:EOLhyphen"/>ter the <hi>Rectum,</hi> no thicker than the bigest string of a <hi>Trebel Vial.</hi>
+               </p>
+               <p>The <hi>Rectum,</hi> three inches long; towards the <hi>Anus,</hi> near an inch wide; almost in the Figure of a little <hi>Pear.</hi> As it is also in most <hi>Wild-Fowl.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of a young Cuckow.</head>
+               <p>Neither hath this Bird any Crop, nor a Gizard. But to the Gulet it is peculiar, That it hath Ten or Twelve Rows of more conspicuous Glands, which run along from the Throat to the <hi>Echinus.</hi>
+               </p>
+               <p>The <hi>Echinus,</hi> of a ratable bigness, and more distinct from the Stomach, than in the <hi>Owle;</hi> being divided from it by a <hi>Muscular Neck.</hi> As it is also in most other Birds.</p>
+               <p>The Stomach, a plain Bag, much like to that of an <hi>Owle;</hi> yet somewhat thicker, and more Tendinous.</p>
+               <p>The Guts about a foot and ½ long. Three besides the <hi>Caeca.</hi> The first, an inch and ¼ long; and near ¼ of an inch wide. The second, above a foot, and ⅙<seg rend="sup">th</seg> wide. The <hi>Caeca,</hi> as wide in the middle, as the first; and above an inch long. The <hi>Rectum,</hi> two inches and ½.</p>
+               <p>The <hi>Wild-Duck</hi> and <hi>Teal</hi> also, and I suppose all of this kind, and most other Birds, are without a Crop.</p>
+            </div>
+            <div type="section">
+               <head>Of a Dunghill-Cock.</head>
+               <p>A DUNGHILL-COCK, hath one Stomach or Ventricle more than the former Birds, <hi>sc.</hi> a Crop: all over be<g ref="char:EOLhyphen"/>sprinkled with small Glands, somewhat more visible than in the Gulet.</p>
+               <p>The upper part of the <hi>Gulet,</hi> leading to the <hi>Crop,</hi> ¼ of an
+<pb n="34" facs="tcp:174968:19"/>inch over. But the lower part, leading from it towards the <hi>Echinus,</hi> very slender, not above ¼ wide.</p>
+               <p>The <hi>Echinus</hi> almost an Oval shape, being divided from the Gizard by a pretty long and slender Neck. And may therefore be properly call'd the <hi>Second</hi> or <hi>Oval Ventricle.</hi>
+               </p>
+               <p>The Third, is the <hi>Gizard,</hi> in the place of the plain Bag or Stomach in the former Birds. 'Tis made of Six <hi>Muscules</hi> and a <hi>Cartilaginous Lining</hi> in the greater Concave; which may be called the <hi>Laboratory.</hi> Those four, which make the greatest part of the <hi>Gizard,</hi> may be called the <hi>Grinders.</hi> Of extraordinary thickness; whereby the length of the Convex, is cross to the length of the Concave of the <hi>Gizard.</hi> Yet thinner towards the Edges, so as to make a kind of dou<g ref="char:EOLhyphen"/>ble <hi>Hyperbola.</hi> In the Centre hereof on both sides meet the <hi>Tendons</hi> of the said <hi>Muscules,</hi> continued or expanded for about ½ an inch in breadth, without any Carneous or Red <hi>Fibers</hi> mixed with them. From whence, they are divided, the one, which is the stronger, spread over, the other, under the <hi>Muscules;</hi> into which they are also branched all the way, so as meeting in the body of the <hi>Muscule</hi> they make a sort of fine Cancellated Work, as may be seen better in the <hi>Gizard</hi> of a <hi>Goose;</hi> especially in a thin slice hereof par<g ref="char:EOLhyphen"/>boyl'd, and held up against a <hi>Candle.</hi> And in all <hi>Gizards,</hi> so as to be seen to run cross, as in that of a <hi>Pullet</hi> in <hi>Tab.</hi> 29.</p>
+               <p>The Fifth <hi>Muscule</hi> is that which standeth between the <hi>Echinus</hi> and the four <hi>Muscules</hi> now describ'd, and may be called the <hi>Deductor,</hi> from the use hereafter mention'd. Very thin with respect to the former; placed at the upper end of the left edge of the <hi>Gizard,</hi> and spread a little on the side, but not so much as in the Figure. Better represented, <hi>Tab.</hi> 29.</p>
+               <p>The Sixth, is such another <hi>Muscule,</hi> standing opposite to the former, <hi>sc.</hi> on the right edge of the <hi>Gizard,</hi> and may be called the <hi>Reductor,</hi> as shall be shew'd why.</p>
+               <p>The four <hi>Grinders</hi> are strengthened within, not only with a <hi>Tendon,</hi> but a Gristly Lining, thicker than the outer <hi>Ten<g ref="char:EOLhyphen"/>don,</hi> with a rough surface, and wrinkled into several <hi>Trans<g ref="char:EOLhyphen"/>verse Furrows,</hi> from one end to the other.</p>
+               <p>The <hi>Guts</hi> are about a yard and ½ long. Three besides the <hi>Caeca.</hi> The first, the smaller; contrary to what it is in most Birds. Not much above ¼ of an inch, where widest.
+<pb n="35" facs="tcp:174968:19"/>About two feet and ½ long. Where it joyns with the Great<g ref="char:EOLhyphen"/>er, stands the end of the <hi>Ductus Intestinalis,</hi> accurately de<g ref="char:EOLhyphen"/>scribed
+<note place="margin">(a) Lib. de Foetu For<g ref="char:EOLhyphen"/>mato.</note> by Dr. <hi>Walter Needham.</hi>
+               </p>
+               <p>The Greater, where widest ½ an inch. The <hi>Rectum,</hi> some<g ref="char:EOLhyphen"/>what more. The <hi>Caeca</hi> near eight inches long: at the fur<g ref="char:EOLhyphen"/>ther end, above ¼ of an inch over; but where they open into the <hi>Rectum,</hi> no thicker than the great string of a <hi>Base-Viol.</hi>
+               </p>
+               <p>'Tis proper to the <hi>Gallinaceous kind,</hi> to have a great <hi>Gi<g ref="char:EOLhyphen"/>zard.</hi> That of a good big <hi>Turkey,</hi> near eight Ounces <hi>Troy.</hi> Whereas that of a <hi>Japan Peacock</hi> is not above two: yet the Body about half as big as that of the <hi>Turkey.</hi>
+               </p>
+               <p>Not only all the <hi>Gallinaceous kind;</hi> but the <hi>Duck,</hi> and, I suppose, all of that kind, have two very long <hi>Caeca.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of a Tame Pigeon.</head>
+               <p>The <hi>Gulet</hi> of a Tame PIGEON, near the Throat, very wide; almost an inch and ½ over.</p>
+               <p>The <hi>Crop</hi> is above three inches broad; above two, long; and an inch and ¾ deep. Not so distinct from the <hi>Gulet,</hi> as in the <hi>Gallinaceous kind;</hi> this and the <hi>Gulet</hi> running one into another in a direct Line. In the Belly of it, are few visible Glands: but the Neck thence down to the <hi>Echinus,</hi> is curiously Lined with six or seven Glandulous Laces.</p>
+               <p>The <hi>Crop</hi> of a <hi>Carrier-Pigeon,</hi> is curiously shap'd; as it were Treble-Belly'd: the two outmost or side-Bellies, open<g ref="char:EOLhyphen"/>ing into that in the middle. The bottom and Neck where<g ref="char:EOLhyphen"/>of, are lined with several Glandulous Laces, as that of the <hi>Tame Pigeon.</hi>
+               </p>
+               <p>The <hi>Crop</hi> of the <hi>Cropper-Dove,</hi> is almost of the same Figure. But the <hi>Gulet</hi> of a wonderful extent; when blown up lightly, above nine inches in the girth.</p>
+               <p>The <hi>Echinus</hi> large, and so the Glands therein; for the sight of which, I have represented it inside outward. Divid<g ref="char:EOLhyphen"/>ed, as usually, from the <hi>Gizard</hi> by a <hi>Muscular Neck.</hi>
+               </p>
+               <p>The <hi>Gizard</hi> rounder than of most other Birds. The <hi>Mus<g ref="char:EOLhyphen"/>cules</hi> very thick and high in the middle, and flater at the edges. The <hi>Deductor</hi> stands at the top of it, and the <hi>Reductor</hi> at the bottom.</p>
+               <pb n="36" facs="tcp:174968:20"/>
+               <p>The Greater Gut a foot long, and near ⅜<seg rend="sup">ths</seg> of an inch where widest. The sender Gut above ½ a yard long, and not much above ⅛<seg rend="sup">th</seg> of an inch over where smallest. The <hi>Caeca</hi> not more than ¼ of an inch long, nor thicker than a <hi>Kniting-Pin.</hi> Placed about an inch above the <hi>Rectum.</hi> The <hi>Rectum</hi> near ¾ of an inch wide, and an inch and ½ long.</p>
+            </div>
+            <div type="section">
+               <head>Of a Jackdaw.</head>
+               <p>The Gulet above ½ an inch over at the top; ¼ at the bot<g ref="char:EOLhyphen"/>tom; being <hi>Conick</hi> all the way, as in most Birds.</p>
+               <p>The Gizard, above ¾ of an inch over, an inch and ¼ long; and very Tendinous. The Guts a foot and ¾ long. The first or Greater, ¾ of a foot; and ¾ of an inch wide. The smaller, Ten inches long, and somewhat more than ⅛ of an inch over. The <hi>Rectum,</hi> two inches long, and above ½ an inch over; shaped like the end of a <hi>Plummers sodering Iron.</hi> The <hi>Caeca,</hi> not much above ¼ of an inch long, and very small.</p>
+               <p>All along the slender Gut, and in part of the <hi>Rectum,</hi> the chief <hi>Muscular Fibers</hi> are most curiously <hi>Indented,</hi> as in the <hi>Mole;</hi> especialy near the <hi>Caeca.</hi> Not ill resembling the Needle-Work called <hi>Irish-Stitch.</hi>
+               </p>
+               <p>
+                  <hi>Transverse</hi> to these <hi>Fibers</hi> which make the Indentures, and which are continu'd by the length of the Gut, run others of the same colour, round about it; one of them to every In<g ref="char:EOLhyphen"/>denture, which it divides into two equal parts.</p>
+               <p>The same <hi>Indented-Work</hi> is seen in most other smaller Birds, as well as here, but not every where after the same manner, nor in the same place. In the <hi>Twite</hi> or <hi>Avicula Anadavadensis,</hi> it continues also very far, <hi>sc.</hi> four inches above the <hi>Caeca.</hi> In the <hi>Redstart,</hi> above three. And in the <hi>Titlark,</hi> as far. In the <hi>Water-Wagtaile,</hi> not above two and ½; and an inch below them. In the <hi>Solitary-Sparrow,</hi> they are also very pretty below the <hi>Caeca.</hi> In the <hi>House-Sparrow,</hi> they are visible only in the small Gut an inch and ½ above the <hi>Caeca.</hi> In the <hi>Chaffinch,</hi> only in the <hi>Rectum.</hi>
+               </p>
+               <p>The Gulet of a <hi>Jay,</hi> being contracted in the middle, is divided into two slender <hi>Venters,</hi> as the Guts of some Ani<g ref="char:EOLhyphen"/>mals. So also is that of a <hi>Japan Peacock.</hi>
+               </p>
+               <p>The <hi>Rectum</hi> of a <hi>Jay,</hi> hath several <hi>Muscular Plates,</hi> or
+<pb n="37" facs="tcp:174968:20"/>
+                  <hi>Valvulae Conniventss</hi> placed at the distance of 1/7 or ⅛ of an inch.</p>
+            </div>
+            <div type="section">
+               <head>Of a Starling.</head>
+               <p>The Gulet exceedeth not ½ an inch in width. The <hi>Echinus</hi> small, with respect to the other parts. The Gizard, mean; near an oval shape: the <hi>Reductor</hi> conspicuous. Next to the Gizard stands the slender Gut, and the Greater follows; as in the <hi>Dunghill-Cock:</hi> contrary to the order kept in most other Birds. Where they meet, there is a remarquable Con<g ref="char:EOLhyphen"/>traction. The Indentures run along the lower half of the Ample Gut; with some <hi>Ʋndulations</hi> over-against the <hi>Caeca.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of a Yellowhammer.</head>
+               <p>The <hi>Gulet,</hi> at top is dilated into a <hi>Crop</hi> an inch and ¼ long, and above ½ an inch over. The <hi>Axis</hi> whereof, as in a <hi>Pigeon,</hi> is the same with that of the lower part of the <hi>Gu<g ref="char:EOLhyphen"/>let,</hi> and not <hi>transverse,</hi> as in the <hi>Gallinaceous kind.</hi> Curi<g ref="char:EOLhyphen"/>ously Laced with 16 or 18 Rows of Glands, about half an inch long. The <hi>Green-Finch</hi> hath a <hi>Crop</hi> of the same shape: but the Glands sprinkled all over it; very small, yet distinct.</p>
+               <p>The <hi>Echinus</hi> very small; not above ¼ of an inch long, and as broad.</p>
+               <p>The <hi>Gizard</hi> above ½ an inch long, almost ½ an inch broad; thin edg'd, but high in the middle; very strong and Tendinous. And it may here be observ'd, That although the <hi>Gallinaceous kind</hi> have a very large <hi>Gizard:</hi> yet in many other Birds, even of the smallest sort, the <hi>Gi<g ref="char:EOLhyphen"/>zard,</hi> with respect to its bulk, is altogether as strong: that is to say, the <hi>Muscules,</hi> with respect to their length and breadth, are as Thick, and their <hi>Tendons</hi> answerable; as not only in this Bird, but the <hi>House-Sparrow, Linnet, Titlark,</hi> and many more. And with respect to the Body, some small Birds have also a great <hi>Gizard,</hi> as a <hi>Chaffinch,</hi> which hath one four times as big as that of a <hi>Linet.</hi>
+               </p>
+               <p>The <hi>Guts</hi> about eight inches long. The Greater, three; and above ¼ over where widest. The smaller, about three and ½; and above ⅛<seg rend="sup">th</seg> wide. The <hi>Rectum</hi> an inch and ½ long, shaped like a <hi>Pear;</hi> ⅝<seg rend="sup">ths</seg> over in its widest place: very great. The <hi>Caeca</hi> stand ¼ of an inch, below its smaller end: not above ⅛<seg rend="sup">th</seg> of an inch long.</p>
+               <pb n="38" facs="tcp:174968:21"/>
+               <p>The Indentures continu'd about ¾ of an inch from the <hi>Caeca</hi> both upward and downward.</p>
+               <p>The Annular, or rather spiral <hi>Fibers,</hi> in the <hi>Rectum</hi> more apparent.</p>
+            </div>
+            <div type="section">
+               <head>Of a Bull-Finch.</head>
+               <p>A very different Bird from all the <hi>Finches.</hi> For first he hath a Lateral <hi>Crop.</hi> 'Tis above ½ an inch broad, and about ¾ long. The <hi>Gulet,</hi> between the <hi>Crop</hi> and the <hi>Echinus,</hi> near ½<seg rend="sup">th</seg> over. The <hi>Echinus</hi> near ½ an inch long, and above ¼ broad: Thrice as big, as that of a <hi>Martlets, Swallows,</hi> or <hi>Sparrows.</hi> The <hi>Gizard</hi> near ½ an inch broad; broader than long.</p>
+               <p>The <hi>Guts</hi> no less than ½ a yard and an inch long: much beyond what they are in any of the <hi>Finches.</hi> The Greater, a foot and ½ an inch; and 2/7<seg rend="sup">th</seg> wide. The smaller five inches and ½; and 1/16<seg rend="sup">th</seg> in width. The <hi>Caeca,</hi> at the end of the <hi>Rectum,</hi> not above 1/12<seg rend="sup">th</seg> of an inch long. The <hi>Rectum,</hi> near an inch: and where widest, almost ½ an inch. Figur'd like a <hi>Pear,</hi> as in most other Birds.</p>
+               <p>The whole smaller <hi>Gut,</hi> and about five inches of the greater, very curiously Indented. And the Indentures deeper in the latter.</p>
+            </div>
+            <div type="section">
+               <head>A Young Wryneck.</head>
+               <p>Hath no <hi>Crop,</hi> and but a small <hi>Gulet;</hi> not much above ¼ of an inch, where broadest. The <hi>Echinus</hi> of a prodigi<g ref="char:EOLhyphen"/>ous bigness; near an inch and ¼ long, and ½ an inch over. Much bigger than in a <hi>Jackdaw,</hi> that is yet near six times as big as this Bird. I found it full of meat. The <hi>Gizard</hi> of a mean size; ½ an inch long, and ⅜<seg rend="sup">ths</seg> broad. The <hi>Guts</hi> about eight inches. The greater, near two; and near ¼ wide. The next, four; and somewhat more than ⅛<seg rend="sup">th</seg> broad. The <hi>Rectum,</hi> above two and ½; and 3/2<seg rend="sup">ths</seg>, where widest. The spiral <hi>Fibers</hi> herein more visible. He hath no <hi>Caeca.</hi> The Indentures not so regular, as in most Birds, and but few.</p>
+               <p>As this Bird hath no <hi>Caeca;</hi> so the <hi>White-Throat,</hi> hath no small Gut.</p>
+            </div>
+            <div type="section">
+               <pb n="39" facs="tcp:174968:21"/>
+               <head>Of a Bunting.</head>
+               <p>Hath no <hi>Crop.</hi> The <hi>Gulet</hi> from end to end; above a ¼ of an inch over where slenderest. The <hi>Echinus</hi> ⅜<seg rend="sup">ths</seg> long, and as broad. The Gizard large, about ¾ of an inch square. The Guts, ratably, extream, short, not above nine inches long. The larger, four inches, and ¼ wide. The next, as long; and ⅙<seg rend="sup">th</seg> over. The <hi>Rectum,</hi> about an inch; and not very wide. The <hi>Caeca</hi> not above 11/6<seg rend="sup">th</seg>. The Indentures continu'd from the <hi>Caeca</hi> upward, three inches, but less visibly. Down<g ref="char:EOLhyphen"/>ward or towards the <hi>Anus,</hi> a ¼ of an inch, very curious.</p>
+            </div>
+            <div type="section">
+               <head>Of a Reed-Sparrow.</head>
+               <p>The <hi>Gulet, Echinus, Gizard,</hi> and <hi>Guts</hi> of this Bird, are all much like in shape to those of a <hi>Bunting:</hi> and ratably, less.</p>
+            </div>
+            <div type="section">
+               <head>Of a House-Swallow.</head>
+               <p>The <hi>Gulet</hi> above ¼ of an inch over next the Throat; next the <hi>Echinus,</hi> ½<seg rend="sup">th</seg>. Laced with eight or nine Rows of Glands by the length, as in a <hi>Pigeon.</hi> He hath no <hi>Crop.</hi> The <hi>Echinus,</hi> above ¼ of an inch long, and as wide. The <hi>Gizard</hi> near ½ an inch long; and ⅜<seg rend="sup">ths</seg> broad. The Guts about five inches long. For the bigness, strong and mus<g ref="char:EOLhyphen"/>cular. The Indentures, for the length of an inch and ½, very fine; especially, when the Guts are blown up. The <hi>Caeca</hi> ⅜<seg rend="sup">th</seg> of an inch. Between the Indented Gut and the <hi>Rectum,</hi> a great Contraction: but is omitted in the Figure.</p>
+               <p>In a <hi>Robin-Redbreast;</hi> the Guts are more Muscular, than in any small Bird. The <hi>Caeca,</hi> fasten'd, not as usually either on the Neck of the <hi>Rectum,</hi> or where that and the smaller Gut meet; but ½ an inch above the end of the smaller Gut. None of them have any visible Indentures.</p>
+            </div>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="40" facs="tcp:174968:22"/>
+            <head>CHAP. IX. <hi>Of the Ʋses of these Parts.</hi>
+            </head>
+            <p>THe <hi>Gulets</hi> of Birds, are bigger or less, according to the quantity they swallow. More or less Glandulous, according to the Solidity, or the Dryness of their Meat. And with respect to the same, the Figure thereof is more simple; or expanded into a <hi>Crop;</hi> by which it is retain'd a longer time, before it further descends. And according as less or more Time is requir'd, the <hi>Crop</hi> is made so, as either to have its <hi>Axis,</hi> the same with that of the <hi>Gulet;</hi> or else to stand Collateral, and so open <hi>transversly</hi> into it.</p>
+            <p>After the Meat hath been sufficiently macerated there, it descends into the <hi>Echinus,</hi> for a second preparation. So much the more thorowly made here, because by far greater Glands. And what was done before to all at once, is here in, to smaller parcels. This Part in some sort answering to the <hi>Crop,</hi> as the <hi>Reticulum,</hi> in a <hi>Sheep,</hi> to the <hi>Panch.</hi> Withall it should seem, That when the <hi>Gizard</hi> is either over loaded, or the Meat not enough prepar'd; 'tis thence returned back to this Part, (as the <hi>Reticulum</hi> also subserves the <hi>Omasus</hi>) till It and the <hi>Gizard</hi> are more ready, one for the other. For which end also the <hi>Muscular Neck</hi> below the <hi>Echinus,</hi> serves as a Sphincter to purse it up.</p>
+            <p>At length it descendeth into the Third <hi>Ventricle.</hi> Either Membranous, as in most <hi>Carnivorous Birds;</hi> where the Meat is concocted as in a Man. Or somewhat Tendinous, as in an <hi>Owle;</hi> as if it were made indifferently for Flesh, or other Meat, as he could meet with either. Or most Thick and Tendinous, called <hi>The Gizard;</hi> wherein the Meat, as in a Mill, is ground to pieces, and thence pressed by degrees into the Guts in the form of a <hi>Pulp.</hi> For which purpose, the <hi>Deductor</hi> serves to deliver the Meat from the <hi>Echinus</hi> to the <hi>Laboratory;</hi> as a <hi>Hopper</hi> to a <hi>Mill.</hi> The four Grinders or chief Operators, as the <hi>Millstones:</hi> Partly, as they are extra<g ref="char:EOLhyphen"/>ordinary Thick, and made with double Tendons; whereby they are constring'd with the greater force. And partly, as their Tendons stand high in the centre, so as to be <hi>arched:</hi> for so, every time the Tendons are contracted, they must
+<pb n="41" facs="tcp:174968:22"/>needs make a shallower Arch, and so force the insides of the Grinders closer together. And as the <hi>Millstones</hi> are peck'd and cut with small Gutters, least their force should be evaded: so the Gristly Lining of the Gizard is all over rough, and gather'd into answerable Furrows. And because the force<g ref="char:EOLhyphen"/>able motion of the Grinders, must needs work the Meat from under them: as therefore in some <hi>Mills</hi> there is one attends still to turn the Grist under the Stone; so the <hi>Re<g ref="char:EOLhyphen"/>ductor</hi> here, to deliver it back to the Grinders, and so over and over, till it be sufficiently elaborated for the Guts.</p>
+            <p>And as the strong and continual motion of all these <hi>Mus<g ref="char:EOLhyphen"/>cules,</hi> is taught us from their structure, so likewise from their red colour, which especially in the Grinders is intense. Hence in a <hi>Fish,</hi> the <hi>Muscules</hi> which move the <hi>Fins</hi> are usu<g ref="char:EOLhyphen"/>ally Red, although the rest of the Flesh is very white: And so the Leg of a <hi>Domestick Fowl.</hi> Whereas the Wings also of a <hi>Wild Fowl,</hi> are of the same colour. So likewise the Flesh of a driven <hi>Calf,</hi> or of a <hi>Hare,</hi> though that of a <hi>Coney</hi> be white. And that which comes nearer, the Heart in all Creatures, having the like continual motion, is of a Red Colour.</p>
+            <p>The Guts are of different length and bigness, not always proportionable to that of the Bird, but the nature of the Meat. So those of a <hi>Casowary,</hi> though it be necessary, that they should contain Meat enough for so great a Body: yet not, that the Meat, which is very nutritive, should make any long voyage. Yet is it needful there should be a <hi>Connivent Valve</hi> before the <hi>Rectum,</hi> for the guarding of so open a pas<g ref="char:EOLhyphen"/>sage. And so with Variety in other Birds, according as they feed on <hi>Worms, Seeds, Fruits, Flys,</hi> or <hi>Shell'd Insects,</hi> requiring a longer, or more open passage, for their more deliberate, or safer Transmission to the <hi>Anus.</hi>
+            </p>
+            <p>The <hi>Indentures</hi> also seem to be made, and with variety; to the same Intent: <hi>sc.</hi> That the Guts hereby receiving the greater Contraction and Dilatation, may so much the more forceably detrude the Meat, or more easily give way to it; as it is softer, or mixed with Shells, Stones and the like.</p>
+            <p>The <hi>Caeca,</hi> especially where large, and made for a further Concoction of the Meat; for the better Retention hereof, where they open into the <hi>Rectum,</hi> are very straight. And for the same reason, also thinner and less <hi>Muscular</hi> than the
+<pb n="42" facs="tcp:174968:23"/>other Guts: that so the Meat therein may lie the more quiet.</p>
+            <p>The ampliation of the <hi>Rectum,</hi> chiefly in <hi>Wild Fowls,</hi> amongst other Reasons, is, I suppose, That the Dung lying there in good quantity, may be as a <hi>Counter-poise</hi> to the Head, to keep it up in flying.</p>
+         </div>
+         <div n="10" type="chapter">
+            <head>CHAP. X. <hi>Of the Stomachs and Guts of FISHES.</hi>
+            </head>
+            <p>IN so many as I have open'd, two Things are more gene<g ref="char:EOLhyphen"/>rally observable, <hi>viz.</hi> That many of them have no Stomach, that is one that is not Belly'd; as in the <hi>Salmon, Jack, Tench, Barble, Breme:</hi> or very little, as in the <hi>Place.</hi> And many more, instead of One <hi>Caecum,</hi> as in some <hi>Qua<g ref="char:EOLhyphen"/>drupeds;</hi> or Two, as in most Birds; have three or four, as the <hi>Pearch;</hi> nine or ten, as the <hi>Rochet;</hi> many more, as the <hi>Trout,</hi> above thirty; the <hi>Whiting,</hi> above forty; the <hi>Salmon</hi> many more.</p>
+            <p>The Stomach of a <hi>Place</hi> shaped almost like the <hi>Echinus</hi> of a Bird. Bounded at the bottom with a <hi>Connivent Valve.</hi> The Guts two only. The upper end of the first, hath two little extuberant Parts, the use whereof may be answerable to one use of the <hi>Caecum, sc.</hi> To divert the Meat, lest upon any Inverted Motion of the Gut, it should regurgitate into the Stomach, or strain the <hi>Valve.</hi> The bottom of this Gut is separated from the <hi>Rectum,</hi> by another pretty <hi>Connivent Valve:</hi> both which, and the visible Texture of the <hi>Fibers,</hi> are shewed in the last <hi>Table.</hi>
+            </p>
+            <p>The Stomach of a <hi>Salmon</hi> is only like a wide Gut. He hath about fourscore <hi>Caeca,</hi> hanging on the great Gut, almost like the <hi>Mane</hi> upon the <hi>Neck</hi> of a <hi>Horse.</hi> Being ty'd alto<g ref="char:EOLhyphen"/>gether with small Vessels, and the Vessels hid with Fat; they have been mistaken by some for a <hi>Pancreas.</hi> The <hi>Rectum</hi> is guarded with about thirty <hi>Annular Valves.</hi>
+            </p>
+            <p>The <hi>Whiting</hi> hath a large Stomach, which is a distinct Bag or Belly. And numerous <hi>Caeca,</hi> not standing as in the <hi>Salmon,</hi> but all in a Ruck. The Stomach and Guts of a <hi>Cod</hi> are very like.</p>
+         </div>
+         <div type="list_of_illustrations">
+            <pb n="43" facs="tcp:174968:23"/>
+            <head>Some NOTES upon the TABLES.</head>
+            <list>
+               <item>
+                  <hi>TAb.</hi> 1. Describ'd, <hi>p.</hi> 9, 14, 19, 27. The Stone only, drawn after the life.</item>
+               <item>
+                  <hi>Tab.</hi> 2. Desc. <hi>p.</hi> 11, 13, 21, 24, 25, 29. All but the Ram's Horns, af<g ref="char:EOLhyphen"/>ter the life.</item>
+               <item>
+                  <hi>Tab.</hi> 3. Desc. <hi>p.</hi> 36, 38.</item>
+               <item>
+                  <hi>Tab.</hi> 4. Desc. <hi>p.</hi> 42, 50.</item>
+               <item>
+                  <hi>Tab.</hi> 5. Desc. <hi>p.</hi> 63, 64, 67.</item>
+               <item>
+                  <hi>Tab.</hi> 6. Desc. <hi>p.</hi> 78, 80. The double Egg drawn after the life.</item>
+               <item>
+                  <hi>Tab.</hi> 7. Desc. <hi>p.</hi> 87, 104, 108, 110, 113, <hi>&amp;</hi> 114.</item>
+               <item>
+                  <hi>Tab.</hi> 8. D. <hi>p.</hi> 115, 117, 121, 123.</item>
+               <item>
+                  <hi>Tab.</hi> 9. D. <hi>p.</hi> 126, 127, 128.</item>
+               <item>
+                  <hi>Tab.</hi> 10. D. <hi>p.</hi> 130, 131.</item>
+               <item>
+                  <hi>Tab.</hi> 11. D. <hi>p.</hi> 133, 135, 136, 137, 140.</item>
+               <item>
+                  <hi>Tab.</hi> 12. D. <hi>p.</hi> 140, 141, 142, <hi>line</hi> 9. <hi>p.</hi> 146, 148. <hi>line</hi> 1. <hi>p.</hi> 149.</item>
+               <item>
+                  <hi>Tab.</hi> 13. D. <hi>p.</hi> 154. <hi>line</hi> 13. <hi>p.</hi> 156, 158, 161, 163, 165, 166.</item>
+               <item>
+                  <hi>Tab.</hi> 14. D. <hi>p.</hi> 188. <hi>line</hi> 13, 23, <hi>&amp;</hi> 30. <hi>p.</hi> 189, 190. <hi>line</hi> 18, 33, <hi>&amp;</hi> 40, 191.</item>
+               <item>
+                  <hi>Tab.</hi> 15. D. <hi>p.</hi> 197, 198.</item>
+               <item>
+                  <hi>Tab.</hi> 16. D. <hi>p.</hi> 201, 202, 203, 204, 205, 206.</item>
+               <item>
+                  <hi>Tab.</hi> 17. D. <hi>p.</hi> 185, 216, 229.</item>
+               <item>
+                  <hi>Tab.</hi> 18. D. <hi>p.</hi> 233, 243, <hi>line</hi> 22, <hi>p.</hi> 244. <hi>line</hi> 37. <hi>p.</hi> 245, <hi>line</hi> 33.</item>
+               <item>
+                  <hi>Tab.</hi> 19. D. <hi>p.</hi> 254, 255, 256. <hi>line</hi> 33, 263. <hi>line</hi> 35. <hi>p.</hi> 264. <hi>line</hi> 3. <hi>&amp;</hi> 19.</item>
+               <item>
+                  <hi>Tab.</hi> 20. D. <hi>p.</hi> 267, 268, 273, 276, 291, 297, 302, 303.</item>
+               <item>
+                  <hi>Tab.</hi> 21. D. <hi>p.</hi> 305, 306, 307. <hi>line</hi> 23. <hi>p.</hi> 308, 312.</item>
+               <item>
+                  <hi>Tab.</hi> 22. D. <hi>p.</hi> 315, 323, 326. <hi>line</hi> 34. <hi>p.</hi> 329, 330.</item>
+               <item>The rest belong to the <hi>Anatomical Part.</hi>
+               </item>
+               <item>
+                  <hi>Tab.</hi> 23. In which the Stomach and Guts of a <hi>Fox,</hi> are supposed to be turned inside outward, to shew the Glands.</item>
+               <item>
+                  <hi>Tab.</hi> 24. In which all the Guts are supposed to be inverted, to shew their Glands and inward Stru<g ref="char:EOLhyphen"/>cture.</item>
+               <item>
+                  <hi>Tab.</hi> 25. Where some Faults are to be rectify'd by the Descriptions. To which the <hi>Reader</hi> is desired always to have regard.</item>
+               <item>
+                  <hi>Tab.</hi> 26. In which the Stomach and Guts of a Sheep supposed to be Inside outward.</item>
+               <item>
+                  <hi>Tab.</hi> 27. In which the width of the <hi>Casowary</hi>'s Guts is somewhat a<g ref="char:EOLhyphen"/>bove the <hi>Scale.</hi>
+               </item>
+               <item>
+                  <hi>Tab.</hi> 28. In which the <hi>Gizard</hi> of the <hi>Dunghill-Cock</hi> is not so well drawn, as in the following <hi>Table.</hi> The <hi>Pigeons</hi> Crop drawn Inside outward, to shew the Glands both in that, and in the <hi>Echinus.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:174968:24"/>
+            <pb facs="tcp:174968:24"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab: 1.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>stone</figDesc>
+                     <p>A Stone voyded by y<seg rend="sup">e</seg> Urethra of a Man: after y<seg rend="sup">e</seg> life.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>armadillo</figDesc>
+                     <p>Weesle Headed Armadillo.</p>
+                  </figure>
+               </figure>
+               <figure>
+                  <figDesc>animal skull</figDesc>
+                  <p>Head of y<seg rend="sup">e</seg> Baby-Rousa.</p>
+               </figure>
+               <figure>
+                  <figDesc>boar tusk</figDesc>
+                  <p>Tusk of a Wild Boar</p>
+               </figure>
+               <figure>
+                  <figDesc>hippopotamus skull</figDesc>
+                  <p>Head of y<seg rend="sup">e</seg> Hippopotamus or y<seg rend="sup">e</seg> Behemoth</p>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:25"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 2.</hi>
+                  </p>
+               </figure>
+               <figure>
+                  <figDesc>ram's horns</figDesc>
+                  <p>Muscovy Ram's Horns</p>
+               </figure>
+               <figure>
+                  <figDesc>rhinoceros skin</figDesc>
+                  <p>Skin on y<seg rend="sup">e</seg> Buttock of a Rhinoceros</p>
+               </figure>
+               <figure>
+                  <figDesc>Deer horns</figDesc>
+                  <p>A Greenland Deer's Horns</p>
+               </figure>
+               <figure>
+                  <figDesc>stone</figDesc>
+                  <p>A Stone of a Dogs Bladder</p>
+               </figure>
+               <figure>
+                  <figDesc>bone</figDesc>
+                  <p>Throttle Bone of a Mon<g ref="char:EOLhyphen"/>key</p>
+               </figure>
+               <figure>
+                  <figDesc>leg bone and hoof</figDesc>
+                  <p>Greenland Stag's Leg.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:25"/>
+            <pb facs="tcp:174968:26"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 3.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>scale along side of page</figDesc>
+                     <p>Inches 3 6 9 12 15</p>
+                  </figure>
+                  <figure>
+                     <figDesc>tortoise shell viewed from top and bottom</figDesc>
+                     <p>A Great Chequerd Tortoise-Shell</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>tortoise shell</figDesc>
+                     <p>A Lesser from Virginia</p>
+                  </figure>
+                  <figure>
+                     <figDesc>tortoise shell</figDesc>
+                     <p>A Scaled Tortois Shell</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:26"/>
+            <p>
+               <figure>
+                  <pb facs="tcp:174968:27"/>
+                  <pb facs="tcp:174968:28"/>
+                  <p>
+                     <hi>Tab. 4.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>elephant tusk</figDesc>
+                     <p>An Elephant's Tusk.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>snake tail</figDesc>
+                     <p>Rattle Snak's Tail, after y<seg rend="sup">e</seg> Life.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale along top of page</figDesc>
+                     <p>Feet. 1 2 3 4 5 6 7</p>
+                  </figure>
+                  <figure>
+                     <figDesc>crocodile skeleton with measuring scale at top</figDesc>
+                     <p>Skeleton of a Crocodile or y<seg rend="sup">e</seg> Leviathan</p>
+                  </figure>
+                  <figure>
+                     <figDesc>bony appendage</figDesc>
+                     <p>The Wesan</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:29"/>
+            <pb facs="tcp:174968:29"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 5.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>bird head</figDesc>
+                     <p>Ind: Stork's Head</p>
+                  </figure>
+                  <figure>
+                     <figDesc>bird head</figDesc>
+                     <p>Phoenicopter's Head</p>
+                  </figure>
+                  <figure>
+                     <figDesc>bird head</figDesc>
+                     <p>Ind: Hern's Head</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale along side of page</figDesc>
+                     <p>Inches 5 10</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:30"/>
+            <pb facs="tcp:174968:30"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 6.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>bird skull</figDesc>
+                     <p>Head of y<seg rend="sup">e</seg> Albitros.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>egg in another egg</figDesc>
+                     <p>Two Eggs, one within another.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>bird's nest</figDesc>
+                     <p>A Bird's nest.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>bird's nest</figDesc>
+                     <p>Another.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:31"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 7.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>depiction of fish</figDesc>
+                     <p>Little Sea-Uni<g ref="char:EOLhyphen"/>corne.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale along side of page</figDesc>
+                     <p>Inches 4 8 12 16 20</p>
+                  </figure>
+                  <figure>
+                     <figDesc>fish head</figDesc>
+                     <p>Head of y<seg rend="sup">e</seg> Under-Sword Fish</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of fish</figDesc>
+                     <p>Squar<seg rend="sup">e</seg> Fish</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of fish</figDesc>
+                     <p>Long File Fish.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of fish</figDesc>
+                     <p>Hare Globe Fish.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:31"/>
+            <pb facs="tcp:174968:32"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 8.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>depiction of fish</figDesc>
+                     <p>Square Acarauna.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of fish</figDesc>
+                     <p>Mailed Fis of Brasile</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale on side of page</figDesc>
+                     <p>Inches 2 4 6</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of starfish</figDesc>
+                     <p>Smooth Star-Fish</p>
+                     <p>1.</p>
+                     <p>2.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>crowned starfish</figDesc>
+                     <p>Crowned Star-Fish.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:32"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 9.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Wilk with plaited Spikes</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Leser Persian Wilk</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Flat Lip'd Snaile</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Diping Snaile</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:33"/>
+            <pb facs="tcp:174968:33"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 10.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Square Wilk</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Long Square Wilk</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Thick Lipp'dWilk</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Triangular Wilk</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Inverted Wilk Snail</p>
+                     <p>I</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:34"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 11.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Spiked short Whirle</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Concave short Whirle</p>
+                     <p>I.</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Finger'd Snail</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Blober Lip</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Fore Whirle</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Mailed Sailer</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Vaulted Limpet</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:34"/>
+            <pb facs="tcp:174968:35"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 12.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>front and back of shell</figDesc>
+                     <p>Chestnut Oyster</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Neted Shell</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Conick Limpet. Sloaping</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Multiarticulate Oyster</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Scaled Centre-Shell</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Rugged Oyster</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Blob Lip'd Muscle</p>
+                     <p>2</p>
+                     <p>1</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:35"/>
+            <pb facs="tcp:174968:36"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 13.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>fly nest</figDesc>
+                     <p>Fly Nest</p>
+                  </figure>
+                  <figure>
+                     <figDesc>bee and hive</figDesc>
+                     <p>Wild Bee</p>
+                     <p>I</p>
+                     <p>2</p>
+                     <p>3</p>
+                  </figure>
+                  <figure>
+                     <figDesc>top and bottom of insect</figDesc>
+                     <p>Lanthorne Flie</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>insect</figDesc>
+                     <p>Nocoonaca</p>
+                  </figure>
+                  <figure>
+                     <figDesc>beetle</figDesc>
+                     <p>Great Gogle Ey'd Beetle</p>
+                  </figure>
+                  <figure>
+                     <figDesc>beetle</figDesc>
+                     <p>Leser Bull Chaser</p>
+                  </figure>
+                  <figure>
+                     <figDesc>beetle</figDesc>
+                     <p>Long Gogle Ey'd Beetle</p>
+                  </figure>
+                  <figure>
+                     <figDesc>top and bottom of beetle</figDesc>
+                     <p>Thick Gogle Ey'd Beetle</p>
+                     <p>I</p>
+                     <p>2</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:36"/>
+            <pb facs="tcp:174968:37"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 14.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Trivalvous.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Indian Plum-stones. Great, Poynted.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Quinquevalvous, Oval.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Woody Oval.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Round Mammee.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Woody, Orbicular.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Orbicular, Tuberous.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Quinquevalvous, Orbicular.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:37"/>
+            <pb facs="tcp:174968:38"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 15.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Coco Nut</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>The Shell</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Outward Coat</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale on side of page</figDesc>
+                     <p>Inches 3 6 9 12</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Kernel</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Inward Coat</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:38"/>
+            <pb facs="tcp:174968:39"/>
+            <pb facs="tcp:174968:39"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 16.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Great Palmacoco-Shell.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut and insides</figDesc>
+                     <p>Date-Nut 1.</p>
+                     <p>The Stone 2.</p>
+                     <p>The Kernel. 3</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Round Palmacoco.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>two views of a nut</figDesc>
+                     <p>Dog-Palmacoco 1.</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Broad Palmacoco</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut and insides</figDesc>
+                     <p>Butter-Nut 1.</p>
+                     <p>The Stone 2.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>nut</figDesc>
+                     <p>Indian Filbert.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:40"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 17</hi>
+                  </p>
+                  <figure>
+                     <figDesc>close up of leaf-texture</figDesc>
+                     <p>Part of a Palm-Bag</p>
+                  </figure>
+                  <figure>
+                     <figDesc>gourd</figDesc>
+                     <p>Indian Gourd</p>
+                  </figure>
+                  <figure>
+                     <figDesc>leaf and acorn</figDesc>
+                     <p>Dwarf Oak Leaf Akorne</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:40"/>
+            <pb facs="tcp:174968:41"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 18.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>scale on side of page</figDesc>
+                     <p>Inches 6 12 18 24</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea shrub</figDesc>
+                     <p>Horney Sea Shrub, Incrustated.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sponge</figDesc>
+                     <p>Cats-Tail Sponge.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>peas</figDesc>
+                     <p>After the Life</p>
+                     <p>Orbicular Indian Peas.</p>
+                     <p>Another some-what Flat.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea shrub</figDesc>
+                     <p>Flat Sea Shrub, with numerous Branches.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea shrub</figDesc>
+                     <p>Sea Shrub with united Branches.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:41"/>
+            <pb facs="tcp:174968:42"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 19.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>tooth</figDesc>
+                     <p>Petrify<seg rend="sup">d</seg> Tooth of a Sea Animal.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>two images of a fish mold</figDesc>
+                     <p>A Fis Mold 1.</p>
+                     <p>2.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>tooth</figDesc>
+                     <p>P. Toot<seg rend="sup">h</seg> of a Land Animal.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Cardites.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>High-war'd Conchites.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>shell</figDesc>
+                     <p>Quadrilateral Musculites.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:42"/>
+            <pb facs="tcp:174968:43"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 20.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>coral</figDesc>
+                     <p>Florid Coral.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>Flat Bolt-head</p>
+                  </figure>
+                  <figure>
+                     <figDesc>two stones</figDesc>
+                     <p>Stones like Flower-Columns</p>
+                     <p>1.</p>
+                     <p>2.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>True Ste<g ref="char:EOLhyphen"/>lechi<g ref="char:EOLhyphen"/>tes.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>Shell'd Belemnites.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>Dendropotamites.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>Geometrick Iasper</p>
+                     <p>1</p>
+                     <p>2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>Florid Eagle Stone.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>sea life specimen</figDesc>
+                     <p>Worme-stone</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:43"/>
+            <pb facs="tcp:174968:44"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 21.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Astrochites</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Silver-Spar.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Foliated Talk.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Mundick. Spar.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>A Talk-Crystal</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>A Half Crystal</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Starred Waxen-Vain</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:44"/>
+            <pb facs="tcp:174968:45"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 22.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Onychine Marble</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Plated Silver</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Copper both Capillary &amp; Gravulat'd</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Crystalline or Figurd Lead</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Brush-Iron Ore.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>geological specimen</figDesc>
+                     <p>Brush Iron</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:45"/>
+            <pb facs="tcp:174968:46"/>
+            <p>
+               <figure>
+                  <p>TAB: <hi>24</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stomach and Guts of a Mole</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stom: and Guts of a Rat.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stom: and Guts of a Rabbit.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stom: and Guts of an Urchan.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale at bottom of page</figDesc>
+                     <p>Inches. 1 2 3 4</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:46"/>
+            <pb facs="tcp:174968:47"/>
+            <p>
+               <figure>
+                  <p>TAB: <hi>23</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>The Stomach and Guts of a Weesle.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>The Stom: and Guts of a Pole Cat..</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stom: and Guts of a Cat.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stom: and Guts of a Fox.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale at bottom of page</figDesc>
+                     <p>Inches. 1 2 3 4 5</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:47"/>
+            <pb facs="tcp:174968:48"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 25.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stomach and Guts of a Horse.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale at bottom of page</figDesc>
+                     <p>Inches. 5 10 15</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:48"/>
+            <pb facs="tcp:174968:49"/>
+            <p>
+               <figure>
+                  <p>TAB: <hi>26</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>The Stomacks and Guts of a Sheep.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>muscles</figDesc>
+                     <p>The Muscules of the Gulet of a Calf after the Life.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>organ</figDesc>
+                     <p>The Omasus or Feck of a Sheep</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale on side of page</figDesc>
+                     <p>Inches 1 2 3 4 5 6 7 8 9</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale at bottom of page</figDesc>
+                     <p>Inches. 1 2 3</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:49"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 27.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Stomach and Guts of a Cassowary.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Of an owle.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:50"/>
+            <pb facs="tcp:174968:50"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 28:</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Crop, Gizard, &amp; Guts of: a Dunghil Cock:</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale in middle of page</figDesc>
+                     <p>Inches.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive system</figDesc>
+                     <p>Crop &amp;c. of a Tame Pigeon.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:51"/>
+            <pb facs="tcp:174968:51"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Tab. 29.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive organ</figDesc>
+                     <p>Crop of a Cropper Dove</p>
+                  </figure>
+                  <figure>
+                     <figDesc>scale in middle of page</figDesc>
+                     <p>Inches.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive organ</figDesc>
+                     <p>Gulet Gizard &amp; Guts of a Jack Da<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive organ</figDesc>
+                     <p>Gizard of a Pullet after the Life.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive organ</figDesc>
+                     <p>Part pf a Jack Da<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s Guts Mag<g ref="char:EOLhyphen"/>nify'd</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:52"/>
+            <pb facs="tcp:174968:52"/>
+            <p>
+               <figure>
+                  <p>TAB. <hi>30</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet &amp;c. of a Starling:</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet. etc. of a young Yellowhamer</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet. etc. of a Bullfinch:</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet. etc. of a young Wryneck:</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet. etc. of a Bunting.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet. &amp;c of a Redd Sparrow</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Gulet. etc. of a Hous Swallow.</p>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:174968:53"/>
+            <pb facs="tcp:174968:53"/>
+            <p>
+               <figure>
+                  <p>TAB. <hi>31.</hi>
+                  </p>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Stomach &amp; Guts of a Salmon.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>interior and exterior view of digestive tract</figDesc>
+                     <p>The Stomach &amp; Guts of a Place. I</p>
+                     <p>The Inside. 2</p>
+                  </figure>
+                  <figure>
+                     <figDesc>digestive tract</figDesc>
+                     <p>The Stomach &amp; Guts of a Whiting</p>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
